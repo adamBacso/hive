@@ -14,5 +14,5 @@ For quick navigation, follow these links to each subject's tag page:
 - to edit using gitHub, select `edit source` under the page title
 
 - How to use gitHub
-- How to use Obsidian
+- [How to use Obsidian](https://adambacso.github.io/hive/Hive-Mind/HOW-TO/How-to-use-Obsidian/)
 - How to use Anki
