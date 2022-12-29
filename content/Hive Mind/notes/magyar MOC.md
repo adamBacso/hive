@@ -7,4 +7,3 @@ tags:
 created: 2022.12.29 17:01
 ---
 #tartuffe 
-#tartuffe/character 
