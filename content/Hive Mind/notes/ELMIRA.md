@@ -2,7 +2,7 @@
 title: "ELMIRA"
 subject: magyar
 tags:
- magyar
- tartuffe/character
+ - magyar
+ - tartuffe/character
 ---
 [[ORGON]] felesége

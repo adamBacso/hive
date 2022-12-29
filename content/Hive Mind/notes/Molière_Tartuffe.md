@@ -1,9 +1,9 @@
 ---
 title: "Molière_Tartuffe"
 tags: 
- magyar
- tartuffe
- source_material
+ - magyar
+ - tartuffe
+ - source_material
 ---
 >subject:: magyar
 
