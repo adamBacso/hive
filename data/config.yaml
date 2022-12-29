@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Bacsó Ádám
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -9,12 +9,12 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/adambacso/hive/tree/hugo/content
 search:
-  enableSemanticSearch: true
+  enableSemanticSearch: false
   operandApiKey: n58b448gdktw01wij1fnfmiim2eszpy8low8
   operandIndexId: ltcrt5esea71
 description:
