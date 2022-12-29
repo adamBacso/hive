@@ -2,8 +2,8 @@
 title: "CLÉANTE"
 subject: magyar
 tags:
- magyar
- tartuffe/character
+ - magyar
+ - tartuffe/character
 ---
 [[ORGON]] sógora
 [[ELMIRA]] apja

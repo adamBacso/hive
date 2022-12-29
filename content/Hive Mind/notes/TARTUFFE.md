@@ -2,6 +2,7 @@
 title: "Tartuffe"
 subject: magyar
 tags:
- tartuffe/character
+ - magyar
+ - tartuffe/character
 ---
 álszent

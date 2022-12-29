@@ -2,6 +2,7 @@
 title: "LOJÁLIS ÚR"
 subject: magyar
 tags:
- tartuffe/character
+ - magyar
+ - tartuffe/character
 ---
 törvényszolga

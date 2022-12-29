@@ -2,8 +2,8 @@
 title: "DAMIS"
 subject: magyar
 tags:
- magyar
- tartuffe/character
+ - magyar
+ - tartuffe/character
 ---
 [[ORGON]] fia
 [[MARIANE]] bátyja

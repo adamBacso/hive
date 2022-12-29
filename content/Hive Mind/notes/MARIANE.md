@@ -2,7 +2,8 @@
 title: "MARIANE"
 subject: magyar
 tags:
- tartuffe/character
+ - magyar
+ - tartuffe/character
 ---
 [[ORGON]] lánya
 [[VALÉR]] szerelme

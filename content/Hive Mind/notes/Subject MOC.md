@@ -1,7 +1,7 @@
 ---
 title: "Subject MOC"
 tags:
- MOC
+ - MOC
 ---
 
-[[magyar MOC|magyar]]
+#magyar 

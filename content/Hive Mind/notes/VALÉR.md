@@ -2,6 +2,7 @@
 title: "VALÉR"
 subject: magyar
 tags:
- tartuffe/character
+ - magyar
+ - tartuffe/character
 ---
 [[MARIANE]] szerelme

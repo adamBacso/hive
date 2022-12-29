@@ -1,10 +1,10 @@
 ---
 
-title: "magyar MOC"
+title: "Magyar MOC"
 type: moc
 tags:
- 
-created: 2022.12.29 14:48
+ - magyar
+created: 2022.12.29 17:01
 ---
-[[Molière_Tartuffe]]
-[[notes/Molière_Tartuffe]]
+#tartuffe 
+#tartuffe/character 

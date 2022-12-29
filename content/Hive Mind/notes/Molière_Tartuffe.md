@@ -5,7 +5,6 @@ tags:
  - tartuffe
  - source_material
 ---
->subject:: magyar
 
 Fordította: Vas István
 # SZEMÉLYEK

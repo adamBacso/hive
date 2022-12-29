@@ -2,7 +2,8 @@
 title: "PERNELLE ASSZONY"
 subject: magyar
 tags:
- tartuffe/character
+ - magyar
+ - tartuffe/character
 ---
 [[ORGON]] anyja
 [[DAMIS]] nagyanyja
