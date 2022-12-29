@@ -4,8 +4,4 @@ tags:
  MOC
 ---
 
-```dataview
-TABLE topic
-```
-
-
+[[magyar MOC|magyar]]
