@@ -17,4 +17,5 @@ GitHub is a version control, file hosting service.
 3. Select `Open with GitHub Desktop`![[ATTACHMENTS/Pasted image 20221229185348.png]]
 4. Choose where to save the repository, then select `Clone`
 
-# [[Push and Pull|How to push and pull files using GitHub]]
+# How to push and pull files using GitHub
+[[Push and Pull]]
