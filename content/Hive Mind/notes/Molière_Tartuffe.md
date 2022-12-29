@@ -1,6 +1,7 @@
 ---
 title: "Molière_Tartuffe"
 tags: 
+ magyar
  tartuffe
  source_material
 ---

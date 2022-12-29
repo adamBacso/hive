@@ -2,6 +2,7 @@
 title: "DAMIS"
 subject: magyar
 tags:
+ magyar
  tartuffe/character
 ---
 [[ORGON]] fia
