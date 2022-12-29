@@ -1,8 +1,7 @@
 ---
 title: Hive
 enableToc: false
-tags:
- magyar
 ---
 
 # Welcome to HIVE!
+[magyar](https://adambacso.github.io/hive/tags/magyar/)
