@@ -9,9 +9,9 @@ For quick navigation, follow these links to each subject's tag page:
 
 
 ## Here's an overview of how to use:
-- use the Search to find specific pages based on `Title`
+- use the Search to find specific pages based on `Title` or content
 - local graph shows one level of connections
-- to edit using gitHub, select `edit source` under the page title
+- to edit using GitHub, select `edit source` under the page title
 
 - [How to use GitHub](https://adambacso.github.io/hive/Hive-Mind/HOW-TO/How-to-use-GitHub)
 - [How to use Obsidian](https://adambacso.github.io/hive/Hive-Mind/HOW-TO/How-to-use-Obsidian/)
