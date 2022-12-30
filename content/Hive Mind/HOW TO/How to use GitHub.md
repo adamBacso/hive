@@ -14,8 +14,8 @@ GitHub is a version control, file hosting service.
 
 # Clone hive onto your computer
 1. Navigate to https://github.com/adamBacso/hive
-2. Click the code button in the top right of the workspace![[../ATTACHMENTS/code_button.png]]
-4. Select `Open with GitHub Desktop`![[../ATTACHMENTS/open_with_github_desktop.png]]
+2. Click the code button in the top right of the workspace ![[code_button.png]]
+4. Select `Open with GitHub Desktop` ![[open_with_github_desktop.png]]
 5. Choose where to save the repository, then select `Clone`
 
 # How to push and pull files using GitHub
