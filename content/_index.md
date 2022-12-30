@@ -15,4 +15,4 @@ For quick navigation, follow these links to each subject's tag page:
 
 - [How to use GitHub](https://adambacso.github.io/hive/Hive-Mind/HOW-TO/How-to-use-GitHub)
 - [How to use Obsidian](https://adambacso.github.io/hive/Hive-Mind/HOW-TO/How-to-use-Obsidian/)
-- How to use Anki
+- [How to use Anki](https://adambacso.github.io/hive/Hive-Mind/HOW-TO/How-to-use-Anki/)

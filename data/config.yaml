@@ -14,7 +14,7 @@ enableGitHubEdit: true
 enableMermaid: true
 GitHubLink: https://github.com/adambacso/hive/tree/hugo/content
 search:
-  enableSemanticSearch: false
+  enableSemanticSearch: true
   operandApiKey: n58b448gdktw01wij1fnfmiim2eszpy8low8
   operandIndexId: ltcrt5esea71
 description:
