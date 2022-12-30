@@ -13,6 +13,6 @@ For quick navigation, follow these links to each subject's tag page:
 - local graph shows one level of connections
 - to edit using gitHub, select `edit source` under the page title
 
-- How to use gitHub
-- [How to use Obsidian](https://adambacso.github.io/hive/Hive-Mind/HOW-TO/How-to-use-Obsidian/)
+- [How to use gitHub](/content/Hive%20Mind/HOW%20TO/How%20to%20use%20GitHub.md)
+- [How to use Obsidian](/content/Hive%20Mind/HOW%20TO/How%20to%20use%20Obsidian.md)
 - How to use Anki
