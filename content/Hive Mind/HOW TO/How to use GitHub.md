@@ -9,7 +9,7 @@ GitHub is a version control, file hosting service.
 # How to set up GitHub on your computer
 1. Create an account at https://github.com/signup
 2. Download GitHub desktop from https://desktop.github.com/
-![](../ATTACHMENTS/github_desktop.png)
+![[github_desktop.png]]
 
 
 # Clone hive onto your computer
