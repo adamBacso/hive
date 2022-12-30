@@ -8,6 +8,11 @@ tags:
 > Pushing content is basically uploading changes onto GitHub
 > Pulling content is downloading changes made from GitHub
 
+> [!info]
+> [[Obsidian git]] plugin does this natively inside obsidian 
+> [[plugins]]
+
+
 # When and why to push or pull?
 Pulling is recommended whenever you want to view the hive using [[HOW TO/How to use Obsidian|Obsidian]]. This will make sure that you are using the most up-to date version. _keyboard shortcut:_ `ctrl + shift + p`
 

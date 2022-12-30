@@ -328,14 +328,14 @@ hr {
       & > li {
         margin: 0.5em 0;
         padding: 0.25em 1em;
-        border: var(--outlinegray) 1px solid;
+        border: var(--outlinegray) 0px solid;
         border-radius: 5px
       }
     }
   }
 
   & #graph-container {
-    border: var(--outlinegray) 1px solid;
+    border: var(--outlinegray) 0px solid;
     border-radius: 5px;
     box-sizing: border-box;
     min-height: 250px;
