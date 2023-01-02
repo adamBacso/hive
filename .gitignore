@@ -5,4 +5,5 @@ assets/indices/linkIndex.json
 assets/indices/contentIndex.json
 linkmap
 content/private/*
-content/.obsidian
+content/templates/_template.md
+content/.*
