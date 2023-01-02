@@ -1,4 +1,4 @@
-baseURL = "https://adambacso.github.io/hive/"
+baseURL = "https://adambacso.github.io/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = true
