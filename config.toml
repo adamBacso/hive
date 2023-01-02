@@ -1,7 +1,7 @@
 baseURL = "https://adambacso.github.io/hive/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
-relativeURLs = false
+relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
