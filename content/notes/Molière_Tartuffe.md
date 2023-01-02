@@ -506,7 +506,7 @@ Mert olyan ember ez... olyan... ember, nahát.
 Aki őt követi, mélységes béke várja  
 S az egész világ nem egyéb neki: trágya.  
 Napról napra, ahogy követem, más leszek,  
-Már nem köt semmihez vonzalom, szeretet.  
+Már nem köt semmihez vonzalom, szeretet.
 Tőle tanultam azt, hogy még ha itt előttem  
 Halna meg anyám, gyermekem, feleségem,  
 Nem törődnék vele még ennyit se, nem én!
@@ -567,7 +567,7 @@ Akármit is beszélsz, én meg nem ijedek,
 Kimondom, és az ég ismeri szívemet.  
 Nem leszek rabja az álszent komédiáknak:  
 Vannak áljámborak, éppúgy, mint színre bátrak,  
-S mint ahogy látjuk a becsület mezején,  
+S mint ahogy látjuk a becsület mezején,  #bookmark 
 Aki zajt csap, nem ő az igazi legény,  
 S a szentek, akiket én magam is követnék,  
 Nem ábrázatukon hordják azt ami szentség.  
@@ -591,7 +591,7 @@ De öcsém, ezt csak úgy mellesleg megjegyeztem.
 Híres tudós lehetsz, már biztos vagyok ebben.  
 Az egész tudományt magadban tárolod,  
 Csak te vagy okos és felvilágosodott,  
-Cato[*](https://mek.oszk.hu/00400/00453/00453.htm#n1) s orákulum vagy a mi századunkban,  
+Cato[*](https://mek.oszk.hu/00400/00453/00453.htm#n1)s orákulum vagy a mi századunkban,  
 S melletted az egész világ buta, tudatlan.
 
 **CLÉANTE**  
@@ -1256,7 +1256,7 @@ Szóval legyek merész, mondjak nyiltan _nem_-et,
 Magam válasszak és kitárjam. szívemet?  
 Bárhogy szeretem őt, visszatart mégis engem  
 Női szemérmem és gyermeki engedelmem.  
-Mit akarsz? A világ lássa szerelmemet...
+Mit akarsz? A világ lássa szerelmemet... #bookmark 
 
 **DORINE**  
 Semmit sem akarok. Látom már, mit szeret.  
@@ -1712,7 +1712,7 @@ S van-e hálátlanabb, mint maga, mondja hát...
 Hagyjuk máskorra ezt az egész nagy vitát,  
 S inkább gondoljanak a kényszer-esküvőre.
 
-**MARIANE**  
+**MARIANE**  #bookmark 
 Mondd meg hát, mit tegyünk, hogy védjük ki előre?  
 Megteszünk ellene mindent, amit lehet.  
 Apja hadd szője a bolondos terveket,  

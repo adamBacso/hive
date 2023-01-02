@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"79c1d9b990b3dcf2","x":289,"y":359,"width":129,"height":60,"color":"1","type":"text","text":"Tartuffe"},
+		{"id":"3360db2722c1c314","x":-228,"y":299,"width":104,"height":60,"color":"1","type":"text","text":"Orgon"}
+	],
+	"edges":[
+		{"id":"f0025a352db8893e","fromNode":"3360db2722c1c314","fromSide":"right","toNode":"79c1d9b990b3dcf2","toSide":"left","label":"imádat, vak követés"},
+		{"id":"470aed1eabeee4ac","fromNode":"79c1d9b990b3dcf2","fromSide":"top","toNode":"3360db2722c1c314","toSide":"top","label":"tanácsadó"}
+	]
+}
