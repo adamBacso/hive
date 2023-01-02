@@ -162,13 +162,13 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
   const node = graphNode
     .append("circle")
     .attr("class", "node")
-    .attr("id", (d) => d.id)
+    .attr("id", (d) => decodeURI(d.id))
     .attr("r", nodeRadius)
     .attr("fill", color)
     .style("cursor", "pointer")
     .on("click", (_, d) => {
       // SPA navigation
-      window.Million.navigate(new URL(`${baseUrl}${decodeURI(d.id).replace(/\s+/g, "-")}/`), ".singlePage")
+      window.Million.navigate(new URL(`${baseUrl}${(d.id).replace(/\s+/g, "-")}/`), ".singlePage")
     })
     .on("mouseover", function (_, d) {
       d3.selectAll(".node").transition().duration(100).attr("fill", "var(--g-node-inactive)")
@@ -179,7 +179,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
       ])
       const neighbourNodes = d3.selectAll(".node").filter((d) => neighbours.includes(d.id))
       const currentId = d.id
-      window.Million.prefetch(new URL(`${baseUrl}${decodeURI(d.id).replace(/\s+/g, "-")}/`))
+      window.Million.prefetch(new URL(`${baseUrl}${(d.id).replace(/\s+/g, "-")}/`))
       const linkNodes = d3
         .selectAll(".link")
         .filter((d) => d.source.id === currentId || d.target.id === currentId)
@@ -229,7 +229,7 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     .attr("dx", 0)
     .attr("dy", (d) => nodeRadius(d) + 8 + "px")
     .attr("text-anchor", "middle")
-    .text((d) => content[d.id]?.title || d.id.replace("-", " "))
+    .text((d) => decodeURI(content[d.id]?.title || d.id.replace("-", " ")))
     .style('opacity', (opacityScale - 1) / 3.75)
     .style("pointer-events", "none")
     .style('font-size', fontSize+'em')
