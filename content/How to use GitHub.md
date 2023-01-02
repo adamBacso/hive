@@ -9,14 +9,14 @@ GitHub is a version control, file hosting service.
 # How to set up GitHub on your computer
 1. Create an account at https://github.com/signup
 2. Download GitHub desktop from https://desktop.github.com/
-![[ATTACHMENTS/github_desktop.png]]
+![github_desktop.png](github_desktop.png)
 
 
 # Clone hive onto your computer,
 1. Navigate to https://github.com/adamBacso/hive
-2. Click the code button in the top right of the workspace ![[ATTACHMENTS/code_button.png]]
-4. Select `Open with GitHub Desktop` ![[ATTACHMENTS/open_with_github_desktop.png]]
-![code_button](ATTACHMENTS/code_button.png)
+2. Click the code button in the top right of the workspace ![code_button.png](code_button.png)
+4. Select `Open with GitHub Desktop` ![open_with_github_desktop.png](open_with_github_desktop.png)
+![code_button.png](code_button.png)
 
 6. Choose where to save the repository, then select `Clone`
 
