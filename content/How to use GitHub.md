@@ -16,7 +16,6 @@ GitHub is a version control, file hosting service.
 1. Navigate to https://github.com/adamBacso/hive
 2. Click the code button in the top right of the workspace ![code_button.png](code_button.png)
 4. Select `Open with GitHub Desktop` ![open_with_github_desktop.png](open_with_github_desktop.png)
-![code_button.png](code_button.png)
 
 6. Choose where to save the repository, then select `Clone`
 
