@@ -5,8 +5,8 @@ enableToc: false
 
 # Welcome to HIVE!
 For quick navigation, follow these links to each subject's tag page:
+- [biology](https://adambacso.github.io/hive/tags/biology/)
 - [magyar](https://adambacso.github.io/hive/tags/magyar/)
-
 
 ## Here's an overview of how to use:
 - use the Search to find specific pages based on `Title` or content
