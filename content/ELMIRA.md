@@ -6,3 +6,4 @@ tags:
  - tartuffe/character
 ---
 [[ORGON]] felesége
+[[TARTUFFE]] szerelmes belé

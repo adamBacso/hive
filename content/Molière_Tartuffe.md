@@ -2608,7 +2608,7 @@ Mindjárt itt lesz az úr. Hát fogjunk össze, kérem.
 Erővel, ésszel, és ingassuk meg hitében,
 Hogy hagyja abba már borzasztó terveit.
 
-**
+
 
 
 ## HARMADIK JELENET
