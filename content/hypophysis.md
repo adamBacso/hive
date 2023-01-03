@@ -1,5 +1,4 @@
 ---
-
 title: "hypophysis"
 alias: "pituaitary"
 type: note

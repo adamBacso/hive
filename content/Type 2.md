@@ -1,5 +1,4 @@
 ---
-
 title: "Type 2"
 type: note
 subject: biology
