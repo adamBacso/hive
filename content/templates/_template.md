@@ -18,6 +18,7 @@
   subj="none"
  }
 %>title: "<%title%>"
+alias: 
 type: <%type%>
 subject: <%subj%>
 tags:

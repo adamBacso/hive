@@ -17,8 +17,8 @@
  } else {
   subj="none"
  }
-%>
-title: "<%title%>"
+%>title: "<%title%>"
+alias: 
 type: <%type%>
 subject: <%subj%>
 tags:

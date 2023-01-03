@@ -3196,7 +3196,7 @@ Nekem a legnagyobb gondot most ez okozza.
 De mi is hát ez a titokzatos kazetta?
 
 **ORGON**
-Argas barátomé e kazetta - szegény
+[[Argas]] barátomé e kazetta - szegény
 Titokban bízta rám még annak idején,
 Amikor menekült, az én kezembe adta,
 Tudom, iratait rejti ez a kazetta,
@@ -3315,7 +3315,7 @@ A gazember pimasz szemet mer vetni nőmre,
 S aljas merénylete neki még nem elég,
 Rám szegzi most saját jótettem fegyverét,
 Amit tőlem kapott, most azzal tönkretenne,
-Ostoba jó szivem hoz romlást a fejemre,
+Ostoba jó szivem hoz romlást a fejemre, 
 Birtokomból elűz és letaszítana
 Oda, ahonnan én húztam ki valaha.
 

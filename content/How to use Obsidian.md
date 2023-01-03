@@ -6,7 +6,7 @@ tags:
 ---
 
 # Why would you use obsidian?
-Obsidian is a dedicated editor for markdown files (format in which the hive is written). It is the inteded way to use the hive. You may [[costumise]] to your heart's content and add whatever content you want with all sorts of [[plugins]].
+Obsidian is a dedicated editor for markdown files (format in which the hive is written). It is the inteded way to use the hive. You may [[customise]] to your heart's content and add whatever content you want with all sorts of [[plugins]].
 
 # If you don't yet have Obsidian
 Download obsidian from [Obsidian.md](https://obsidian.md/). (No account is required)

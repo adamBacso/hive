@@ -8,4 +8,4 @@ tags:
 [[ELMIRA]] férje
 
 imádja [[TARTUFFE]]-t, csak őt követi
-![[Molière_Tartuffe#^5eecef]]
+

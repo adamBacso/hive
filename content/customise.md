@@ -1,5 +1,5 @@
 ---
-title: "costumise"
+title: "customise"
 tags:
  - setup
  - obsidian
