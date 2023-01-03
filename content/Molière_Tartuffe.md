@@ -129,7 +129,7 @@ Amit ez a kegyes nagyúr megengedett?
 **DORINE**
 Mióta elveit itt hirdeti közöttünk,
 Nem tehetünk olyat, hogy főbűnbe ne essünk.
-Mindent bírál ez a buzgó erkölcsbíró. #bookmark
+Mindent bírál ez a buzgó erkölcsbíró.
 
 **PERNELLE ASSZONY**
 És amit megbírál, az bírálnivaló.
@@ -1715,6 +1715,8 @@ S inkább gondoljanak a kényszer-esküvőre.
 **MARIANE**
 Mondd meg hát, mit tegyünk, hogy védjük ki előre?
 Megteszünk ellene mindent, amit lehet.
+
+**DORINE**
 Apja hadd szője a bolondos terveket,
 A kisasszony pedig szavát fogadva szépen
 Megnyugszik szeliden az apai szeszélyben.

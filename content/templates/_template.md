@@ -1,15 +1,28 @@
 ---
 <%*
+//Change title
  let title=tp.file.title
  if(title.startsWith("Untitled")){
   title=await tp.system.prompt("Title")
   await tp.file.rename(title)
  }
-%>
-title: "<%title%>"
-type: note
+ //Change note type
+ type=await tp.system.suggester(["note", "template", "other..."], ["note", "template", "other..."])
+ if (type=="other..."){
+  type=await tp.system.prompt("Type")
+ }
+ //Change subject
+ if (type=="note"){
+  subj=await tp.system.suggester(["biology", "physics", "geography", "math", "french", "german", "spanish", "history", "magyar", "none"], ["biology", "physics", "geography", "math", "french", "german", "spanish", "history", "magyar", "none"])
+ } else {
+  subj="none"
+ }
+%>title: "<%title%>"
+type: <%type%>
+subject: <%subj%>
 tags:
- - 
+ - <%subj%>
+ - <%tp.file.cursor(1)%>
 created: <%tp.file.creation_date(format="YYYY.MM.DD HH:mm")%>
-created_by: 
+created_by: <%tp.file.cursor(2)%>
 ---
