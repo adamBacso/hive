@@ -5,5 +5,5 @@ assets/indices/linkIndex.json
 assets/indices/contentIndex.json
 linkmap
 content/private/*
-content/templates/_template.md
 content/.*
+content/templates/_template*
