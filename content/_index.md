@@ -8,6 +8,9 @@ For quick navigation, follow these links to each subject's tag page:
 - [biology](https://adambacso.github.io/hive/tags/biology/)
 - [magyar](https://adambacso.github.io/hive/tags/magyar/)
 
+### Nelvek
+- [français](https://adambacso.github.io/hive/tags/french/)
+
 ## Here's an overview of how to use:
 - use the Search to find specific pages based on `Title` or content
 - local graph shows one level of connections
