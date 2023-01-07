@@ -8,7 +8,7 @@ For quick navigation, follow these links to each subject's tag page:
 - [biology](https://adambacso.github.io/hive/tags/biology/)
 - [magyar](https://adambacso.github.io/hive/tags/magyar/)
 
-### Nelvek
+### Nyelvek
 - [français](https://adambacso.github.io/hive/tags/french/)
 
 ## Here's an overview of how to use:
