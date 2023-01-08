@@ -6,4 +6,4 @@ assets/indices/contentIndex.json
 linkmap
 content/private/*
 content/.*
-content/templates/_template*
+templates/_template_daily-note.md
