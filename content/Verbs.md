@@ -5,19 +5,11 @@ type: note
 subject: french
 tags:
  - french
- - verbs
+ - verb
 created: 2023.01.06 13:51
 created_by: Ádám
 ---
-[[être]]
-[[écouter]]
-[[regarder]]
-[[réponder]]
-[[répéter]]
-[[lire]]
-[[prendre]]
-[[ouvre]]
-
-
-
-
+```dataview
+TABLE meaning
+FROM #verb and -"Verbs"
+```

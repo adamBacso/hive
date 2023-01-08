@@ -11,13 +11,13 @@
  //Ask for meaning
  meaning=await tp.system.prompt("Meaning")
 %>title: "<%title%>"
-alias: 
+alias: <%meaning%>
 type: <%type%>
-meaning: <%meaning%>
 tags:
  - french
  - vocab
  - <%type%>
 created: <%tp.file.creation_date(format="YYYY.MM.DD HH:mm")%>
-created_by: <%tp.file.cursor(2)%>
+created_by: Ádám
 ---
+meaning:: <%meaning%>
