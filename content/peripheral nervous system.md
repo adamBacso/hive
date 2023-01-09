@@ -10,3 +10,5 @@ created: 2023.01.06 20:18
 created_by: Ádám
 ---
 [[ganglions]], [[nerves]]
+
+[[autonomic nervous system]]
