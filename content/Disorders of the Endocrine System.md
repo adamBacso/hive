@@ -6,7 +6,7 @@ tags:
  - endocrine_system
  - disorders
 created: 2023.01.03 14:52
-created_by: 
+created_by: Ádám
 ---
 
 - hormone imbalance → problems
