@@ -1,7 +1,8 @@
 ---
 title: "regional power"
 alias: 
-type: history
+type: note
+subject: history
 tags:
  - history
  - hungarian_history

@@ -1,7 +1,8 @@
 ---
 title: "sympathetic nervous system"
 alias: 
-type: 
+type: note
+subject: biology
 tags:
  - biology
  - nervous_system

@@ -1,7 +1,8 @@
 ---
 title: "vitreous body"
 alias: 
-type: 
+type: note
+subject: biology
 tags:
  - biology
  - sense_organs

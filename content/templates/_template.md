@@ -7,12 +7,12 @@
   await tp.file.rename(title)
  }
  //Change note type
- type=await tp.system.suggester(["note", "template", "other"], ["note", "template", "other"])
+ type=await tp.system.suggester(["note","class_note", "template", "other"], ["note", "template", "other"])
  if (type=="other"){
   type=await tp.system.prompt("Type")
  }
  //Change subject
- if (type=="note"){
+ if (type=="note" || type=="class_note"){
   subj=await tp.system.suggester(["biology", "physics", "geography", "math", "french", "german", "spanish", "history", "magyar", "none"], ["biology", "physics", "geography", "math", "french", "german", "spanish", "history", "magyar", "none"])
  } else {
   subj="none"

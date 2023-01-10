@@ -1,7 +1,8 @@
 ---
 title: "Suleiman I"
 alias: 
-type: 
+type: note
+subject: history
 tags:
  - history
  - hungarian_history

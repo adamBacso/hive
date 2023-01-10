@@ -24,6 +24,9 @@
  front_matter.push("\ntype: ")
  front_matter.push(tp.frontmatter.type)
 
+ front_matter.push("\nsubject: ")
+ front_matter.push(tp.frontmatter.subject)
+
  front_matter.push("\ntags:")
  front_matter.push(tags)
 

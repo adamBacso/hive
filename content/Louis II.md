@@ -1,7 +1,8 @@
 ---
 title: "Louis II"
 alias: 
-type: 
+type: note
+subject: history
 tags:
  - history
  - hungarian_history
