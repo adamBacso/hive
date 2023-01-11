@@ -1,7 +1,8 @@
 ---
 title: "nose"
 alias: 
-type: biology
+type: note  
+subject: biology 
 tags:
  - biology
  - sense_organs

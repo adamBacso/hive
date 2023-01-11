@@ -36,7 +36,8 @@
  front_matter.push("\ncreated_by: ")
  front_matter.push("Ádám")
 
- front_matter.push("\ndraft: true")
+  front_matter.push("\nstatus: ")
+ front_matter.push("draft")
 
  front_matter.push("\n---")
  

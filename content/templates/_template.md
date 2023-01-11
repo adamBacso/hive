@@ -12,8 +12,9 @@
   type=await tp.system.prompt("Type")
  }
  //Change subject
- if (type=="note" || type=="class_note"){
-  subj=await tp.system.suggester(["biology", "physics", "geography", "math", "french", "german", "spanish", "history", "magyar", "none"], ["biology", "physics", "geography", "math", "french", "german", "spanish", "history", "magyar", "none"])
+ const subjects = ["biology", "physics", "geography", "math", "french", "german", "spanish", "history", "magyar", "chemistry", "none"]
+ if (type!="none"){
+  subj=await tp.system.suggester(subjects, subjects)
  } else {
   subj="none"
  }
@@ -36,4 +37,5 @@ tags:
  - <%tagF%>
 created: <%tp.file.creation_date(format="YYYY.MM.DD HH:mm")%>
 created_by: Ádám
+status: draft
 ---

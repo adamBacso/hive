@@ -12,3 +12,5 @@ created_by: Ádám
 ---
 [[Dynamics of SHM]]
 [[Dynamics of a Pendulum]]
+
+[[Energy of SHM]]
