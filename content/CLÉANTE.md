@@ -6,4 +6,6 @@ tags:
  - tartuffe/character
 ---
 [[ORGON]] sógora
-[[ELMIRA]] apja
+[[ELMIRA]] bátya
+
+Józan, bölcs

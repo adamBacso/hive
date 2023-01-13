@@ -22,6 +22,8 @@ Fordította: Vas István
 - **[[RENDŐRHADNAGY]]**
 - **[[FLIPOTE]]** Pernelle asszony szolgálója
 
+[[ragozás]]
+
 Történik Párizsban, Orgon házában
 
 ---
