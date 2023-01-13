@@ -29,7 +29,7 @@ Történik Párizsban, Orgon házában
 
 # ELSŐ FELVONÁS
 
-## ELSŐ JELENET
+## [[ELSŐ JELENET]]
 
 _
 

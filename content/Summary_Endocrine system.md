@@ -8,6 +8,7 @@ tags:
  - endocrine_system
 created: 2023.01.11 09:23
 created_by: Ádám
+status: draft 
 ---
 # What is the task of the neuroendocrine system? (2p)
 maintenance of homeostasis
@@ -74,19 +75,22 @@ high [[estrogen]], [[FSH]], [[LH]]
 # What causes gigantism? Name 2 characteristics! (5p)
 
 
-17.  What causes acromegaly, write down 2 symptoms! (5p)
-    
-18.  What is caused by the underproduction of growth hormone during childhood? Write down 2 characteristics! (3p)
-    
-19.  Which hormones low level causes cretinism?Characterize the disorder in 3 points! (4p)
-    
-20.  What is caused by high thyroxine levels during adulthood? Write down 3 symptoms! (4p)
-    
-21.  List 4 symptoms of diabetes! (4p)
-    
-22.  List what can contribute to the development of type 2 diabetes? (4p)
-    
-23.  What are the risks of diabetes without treatment? (4p)
-    
+# What causes acromegaly, write down 2 symptoms! (5p)
 
-**
+
+# What is caused by the underproduction of growth hormone during childhood? Write down 2 characteristics! (3p)
+
+
+# Which hormones low level causes cretinism?Characterize the disorder in 3 points! (4p)
+
+
+# What is caused by high thyroxine levels during adulthood? Write down 3 symptoms! (4p)
+
+
+# List 4 symptoms of diabetes! (4p)
+
+
+# List what can contribute to the development of type 2 diabetes? (4p)
+
+
+# What are the risks of diabetes without treatment? (4p)

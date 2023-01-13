@@ -9,7 +9,7 @@ tags:
  - turkish_invasion
 created: 2023.01.09 09:11
 created_by: Ádám
-draft: true
+status: draft 
 ---
 born:: 1487.02.02
 died:: 1540.07.22

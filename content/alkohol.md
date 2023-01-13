@@ -9,7 +9,7 @@ tags:
  - oxigéntartalmú
 created: 2023.01.11 10:18
 created_by: Ádám
-status: draft
+status: review 
 ---
 >[!info] Def
 > Olyan [[hidroxi vegyület]] ahol a [[hidroxilcsoport]]  telített szénatomhoz kapcsolódik
@@ -18,3 +18,6 @@ status: draft
 >szénhidrogén neve után `-ol` végződés
 
 [[Etanol]]
+[[Metanol]]
+
+[[több értékű alkoholok]]

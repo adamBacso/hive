@@ -37,7 +37,7 @@
  front_matter.push("Ádám")
 
   front_matter.push("\nstatus: ")
- front_matter.push("draft")
+ front_matter.push("empty")
 
  front_matter.push("\n---")
  

@@ -8,5 +8,5 @@ tags:
  - nervous_system
 created: 2023.01.09 11:07
 created_by: Ádám
-draft: true
+status: empty 
 ---

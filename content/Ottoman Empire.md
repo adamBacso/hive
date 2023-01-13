@@ -8,5 +8,5 @@ tags:
  - ottoman_empire
 created: 2023.01.10 08:11
 created_by: Ádám
-draft: true
+status: empty 
 ---

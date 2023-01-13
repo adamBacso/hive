@@ -9,5 +9,5 @@ tags:
  - harmonic_motion
 created: 2023.01.10 10:17
 created_by: Ádám
-draft: true
+status: draft 
 ---

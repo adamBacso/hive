@@ -9,7 +9,7 @@ tags:
  - harmonic_motion
 created: 2023.01.09 14:11
 created_by: Ádám
-draft: true
+status: done 
 ---
 minimum __energy__ at_ stable equilibrium_
 kinetic E + elastic E = energy

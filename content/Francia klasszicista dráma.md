@@ -26,3 +26,4 @@ created_by: Ádám
 >osztály
 
 [[klasszicista sínház]]
+[[Molière]] 

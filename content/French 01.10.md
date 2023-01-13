@@ -8,7 +8,7 @@ tags:
  - vocab
 created: 2023.01.10 14:09
 created_by: Ádám
-draft: true
+status: review
 ---
 le sapin de Noël
 la fête

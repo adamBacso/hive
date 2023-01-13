@@ -4,6 +4,7 @@ alias:
 type: class_note
 subject: history
 tags:
+ - history 
  - tripartition
 created: 2023.01.10 08:26
 created_by: Ádám

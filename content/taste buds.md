@@ -8,6 +8,6 @@ tags:
  - sense_organs
 created: 2023.01.09 11:15
 created_by: Ádám
-draft: true
+status: done
 ---
 regenerate in about 5 days when burned
