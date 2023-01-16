@@ -8,7 +8,7 @@ tags:
  - endocrine_system
 created: 2023.01.11 09:23
 created_by: Ádám
-status: draft 
+status: review  
 ---
 # What is the task of the neuroendocrine system? (2p)
 maintenance of homeostasis
@@ -50,8 +50,9 @@ opposite effect on blood sugar
 glycogen is decomposed in the liver and released into the bloodstream
 
 # Why is insulin important for cells? Write down 2 effects of the insulin! (5p)
-1. liver and muscle absorb glucose and turn it into glycogen
-2. cells absorb glucose and tranform it into lipids
+without insulin cells cannot absorb glucose → without glucose there’s no cell respiration
+1. glycogen is created in liver and muscles 
+2. transform into lipids in adipose system
 
 # What produces glucocorticoids? Write down 2 of their effects! (3p)
 [[adrenal cortex]]
@@ -61,36 +62,74 @@ glycogen is decomposed in the liver and released into the bloodstream
 4. increases glycogen storage in liver
 
 # Name the reaction belongs to adrenaline/epinephrine! Which gland secretes it? Write down 3 effects of adrenaline! (5p)
+## Fight or flight system
 [[adrenal medulla]]
 1. increases heart rate
 2. increases blood pressure
 3. increases blood sugar to help muscles and brain to deal with stress
 
 # List the 3 hormones which high level causes ovulation (I want the long names, no abbreviation)! (3p)
-high [[estrogen]], [[FSH]], [[LH]]
+high [[estrogen]], [[Follicle-stimulating hormone]], [[Luteinizing Hormone]]
 
 # What starts menstruation at the hormonal level? (2p)
-
+the [[corpus luteum]] moulders → progesterone level decreases
 
 # What causes gigantism? Name 2 characteristics! (5p)
-
+overproduction of [[growth hormone]] during childhood
+1. long limbs
+2. weak muscles
 
 # What causes acromegaly, write down 2 symptoms! (5p)
-
+overproduction of [[growth hormone]] during adulthood 
+large
+1. hands
+2. feet
+3. ears 
+4. nose 
+5. jaw
 
 # What is caused by the underproduction of growth hormone during childhood? Write down 2 characteristics! (3p)
+dwarfism
+1. height under 140cm
+2. normal or higher intelligence
+3. disproportionate body
 
-
-# Which hormones low level causes cretinism?Characterize the disorder in 3 points! (4p)
-
+# Which hormones low level causes cretinism? Characterize the disorder in 3 points! (4p)
+[[thyroxine hormone disorders|thyroxine]] 
+- mental defects
+- big tongue 
+- lack of sexual maturation
+- organ dysfunction
 
 # What is caused by high thyroxine levels during adulthood? Write down 3 symptoms! (4p)
-
+goitre
+- big appetite but weight loss
+- high blood pressure 
+- tachycardia
+- sweating
+- diarrhea
+- irritability
+- hyperactivity
+- bulging eyes
 
 # List 4 symptoms of diabetes! (4p)
-
+1. thirst
+2. hunger
+3. frequent urination
+4. weight loss
+5. blurry vision
+6. fatigue
+7. dry skin
 
 # List what can contribute to the development of type 2 diabetes? (4p)
-
+- unhealthy diet
+- lack of sports
+- overweight
+- age
+- (genetic background)
 
 # What are the risks of diabetes without treatment? (4p)
+- kidney failure
+- blindness
+- coma
+- limbs amputation

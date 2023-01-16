@@ -1,5 +1,5 @@
 ---
-title: "FSH"
+title: "corpus luteum"
 alias: 
 type: summary
 subject: biology
@@ -9,4 +9,5 @@ tags:
  - info
 created: 2023.01.11 09:23
 created_by: Ádám
+status: empty
 ---

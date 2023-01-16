@@ -9,5 +9,5 @@ tags:
  - oxigéntartalmú
 created: 2023.01.11 10:21
 created_by: Ádám
-status: draft
+status: empty 
 ---

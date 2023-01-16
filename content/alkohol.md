@@ -9,7 +9,7 @@ tags:
  - oxigéntartalmú
 created: 2023.01.11 10:18
 created_by: Ádám
-status: review 
+status: done
 ---
 >[!info] Def
 > Olyan [[hidroxi vegyület]] ahol a [[hidroxilcsoport]]  telített szénatomhoz kapcsolódik

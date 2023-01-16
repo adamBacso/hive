@@ -1,6 +1,6 @@
 ---
-title: "LH"
-alias: 
+title: "Follicle-stimulating hormone"
+alias: "FSH"
 type: summary
 subject: biology
 tags:
