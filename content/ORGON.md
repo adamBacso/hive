@@ -9,3 +9,6 @@ tags:
 
 imádja [[TARTUFFE]]-t, csak őt követi
 
+hiszékeny
+naív (elvakult)
+önkényes

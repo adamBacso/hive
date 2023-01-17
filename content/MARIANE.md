@@ -9,4 +9,10 @@ tags:
 [[VALÉR]] szerelme
 [[DAMIS]] húga
 
-Apját követné mindenáron, szerelme sem elég, hogy ellenkezzen. Könnyen sértődik, 
+Apját követné mindenáron, szerelme sem elég, hogy ellenkezzen. Könnyen sértődik 
+
+elnyomott
+engedelmes
+- nem kitartó
+- visszahúzódó
+törékeny

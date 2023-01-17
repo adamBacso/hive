@@ -27,7 +27,11 @@ b. stimulates or inhibits cell metabolism
 ![](https://lh6.googleusercontent.com/J4u7J1Qr8HRpDwHzuJAb_wRfRoboKheaqI374a7n5e1qCOBNyvhi6XSakVYZYHWx8y-uPeZKPtjPaCnz2XzAt0WxSfzkJMNz1KqEjSIHPGn93ZNgxSOzuUa5T284X_58v_K9WGXAE2fmFUsAuMx6qz-UQGJw9h5OcGua7sH5997RN1Rp8BVc8_HJgxdwy5aj)
 
 # Name 3 hormones and their tasks secreted by the anterior pituitary! (6p)
-#info
+- human growth hormone - effects cell metabolism 
+- thyroid stimulating hormone - stimulates thyroxine production 
+- prolactin - stimulates milk production 
+- follicle stimulating hormone - stimulates maturation of egg cell, ovulation, increases estrogen production, (in males) stimulates sperm cell producion
+- luteinizing hormone - stimulates [[corpus luteum]] progesterone production, (in males) stimulates the androgen production
 
 # What stores oxytocin? What is the effect of the hormone? (3p)
 a. posterior pituitary

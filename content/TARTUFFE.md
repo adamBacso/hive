@@ -1,6 +1,6 @@
 ---
 title: "Tartuffe"
-alias: Orante
+alias: 
 subject: magyar
 tags:
  - magyar

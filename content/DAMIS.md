@@ -9,4 +9,12 @@ tags:
 [[MARIANE]] bátyja
 
 # 1.1
-Nem kedveli [[TARTUFFE|Tartuffet]] mert szerinte túl nagyra tartják. [[DORINE]] egyet ért.
+Nem kedveli [[TARTUFFE|Tartuffe-öt]] mert szerinte túl nagyra tartják. [[DORINE]] egyet ért.
+
+meggondolatlan
+indualtos
+önfejű
+szókimondó
+
+erős az igazságérzete
+hűséges

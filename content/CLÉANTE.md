@@ -8,4 +8,6 @@ tags:
 [[ORGON]] sógora
 [[ELMIRA]] bátya
 
-Józan, bölcs
+józan
+bölcs
+tekintélyes

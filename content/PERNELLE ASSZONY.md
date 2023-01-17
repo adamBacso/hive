@@ -11,3 +11,11 @@ tags:
 
 # 1.1
 kibeszél mindenkit - ![[Molière_Tartuffe#^c50ed8]]
+
+makacs
+harsány
+indulatos
+kritizáló, rosszindulatú
+
+őszinte
+védelmező (Tartuffe, Orgon felé)
