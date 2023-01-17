@@ -14,3 +14,5 @@ An oscillating system will oscillate with the period of the external force if th
 # Resonance
 if $\omega_{ext}=\omega_{system}$, A of oscillation increases
 ![](Pasted%20image%2020230110135717.png)
+
+[[resonance]]
