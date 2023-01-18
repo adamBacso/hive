@@ -16,7 +16,7 @@ status: done
 
 >[!info] Elnevezés
 >szénhidrogén neve után `-ol` végződés
-
+# Példák
 [[Etanol]]
 [[Metanol]]
 

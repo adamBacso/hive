@@ -15,5 +15,5 @@ status: draft
 - [[reflection]]
 - refraction
 - diffraction
-- superposition
+- [[superposition]] 
 - polarization

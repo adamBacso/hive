@@ -12,3 +12,5 @@ created_by: Ádám
 status: done
 ---
 két külöbözó szénatomhoz kapcsolódik az _oxigén_
+
+-éter suffix

@@ -1,5 +1,5 @@
 ---
-title: "oxocsoport"
+title: "kondenzáció"
 alias: 
 type: note
 subject: chemistry
@@ -7,10 +7,8 @@ tags:
  - chemistry
  - szerves_kémia
  - oxigéntartalmú
-created: 2023.01.11 10:05
+created: 2023.01.18 10:05
 created_by: Ádám
 status: done 
 ---
-mindkét kötése ugyanazzal a szénatommal van az _oxigénnek_
-
-# [[Aldeidek]]
+vízkilépés

@@ -1,5 +1,5 @@
 ---
-title: "oxocsoport"
+title: "oxovegyület"
 alias: 
 type: note
 subject: chemistry
@@ -9,8 +9,5 @@ tags:
  - oxigéntartalmú
 created: 2023.01.11 10:05
 created_by: Ádám
-status: done 
+status: empty
 ---
-mindkét kötése ugyanazzal a szénatommal van az _oxigénnek_
-
-# [[Aldeidek]]
