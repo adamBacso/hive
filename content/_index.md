@@ -6,6 +6,7 @@ enableToc: false
 # Welcome to HIVE!
 For quick navigation, follow these links to each subject's tag page:
 - [biology](https://adambacso.github.io/hive/tags/biology/)
+- [physics](https://adambacso.github.io/hive/tags/physics/)
 - [magyar](https://adambacso.github.io/hive/tags/magyar/)
 
 ### Nyelvek
