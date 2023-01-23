@@ -17,3 +17,19 @@ status: draft
 - [[indulgence notes]]
 
 - [[Mohács]] - the Turks were God’s punishment for the sins of Catholics
+
+# Protestant Churches
+[[Lutheran]] 
+[[Calvinist]]
+[[Anti-Trinitarian]]
+
+# By the end of the 16th century:
+- majority became followers of Reformation 
+- greatest congregation: [[Calvinist]] 
+
+# Effects of Reformation in Hungary 
+- education structure and infrastructure
+- development of printing
+- Hungarian literature
+- *religious division*  → conflict
+- **counter-reformation** ([[Pázmány Péter]])
