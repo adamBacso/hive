@@ -15,7 +15,7 @@ status: draft
 | elhivatott hívő                              | külszinű (képmutató) |
 | szerény                                      | álszent (komikusan)  |
 | adakozó                                      | csak “zajt” csap     |
-| figyelmes, [[ELMIRA]]t is csak azért figyeli | túlzásba esik        |
+| figyelmes, “[[ELMIRA]]t is csak azért figyeli” | túlzásba esik        |
 | számonkéri önmagát                           |                      |
 
 # Cléante hogyan próbálja meggyőzni Orgont? Milyen elvei vannak?

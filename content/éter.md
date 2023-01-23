@@ -12,11 +12,11 @@ created_by: Ádám
 status: empty
 ---
 szimmetrikus éterek:
-$$\ce{CH3\bond{1}O\bond{1}CH3}$$
+$$CH_3-O-CH_3$$
 > dimetil*éter*
 
 vegyes éterek:
-$$\ce{CH3\bond{1}CH2\bond{1}O\bond{1}CH3}$$
+$$CH_3-CH_2-O-CH_3$$
 > etil-metiléter
 
 # Fizikai tulajdonságok
@@ -31,9 +31,11 @@ szénhidrogénhez jobban mint [[alkohol]]okhoz
 
 # Előállítás
 alkoholokból történik [[kondenzáció]]val
->R1 = szénhidrogén
-$\ce{R1\bond{1}OH +HO\bond{1}R1}$
-$\ce{H2O +R1\bond{1}O\bond{1}R1}$
+>R1 = szénhidrogén 
+
+
+$R_1-OH +HO-R_1$
+$H_2O+R_1-O-R_1$
 
 # Példák
 [[dietiléter]]

@@ -10,26 +10,26 @@ created: 2023.01.10 14:09
 created_by: Ádám
 status: review
 ---
-le sapin de Noël
-la fête
-? Ca n’est eguale
-le cadeau
-le pain d’épices
-l’épice
-le cœur
-la lune
-le bonhomme de neige
-Père noël
-le rois
-le lentille
-bonheurs
-marcher
-la signature
-signer
-la liaison
-médecine
-variable
-invariable
+- [x] le sapin de Noël
+- [x] la fête
+- [x] ? Ca n’est eguale
+- [x] le cadeau
+- [x] le pain d’épices
+- [x] l’épice
+- [x] le cœur
+- [x] la lune
+- [x] le bonhomme de neige
+- [x] Père noël
+- [x] le rois
+- [x] le lentille
+- [ ] bonheurs
+- [ ] marcher
+- [ ] la signature
+- [ ] signer
+- [ ] la liaison
+- [ ] médecine
+- [ ] variable
+- [ ] invariable
 
 
 

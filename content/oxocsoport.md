@@ -9,8 +9,9 @@ tags:
  - oxigéntartalmú
 created: 2023.01.11 10:05
 created_by: Ádám
-status: done 
+status: draft 
 ---
 mindkét kötése ugyanazzal a szénatommal van az _oxigénnek_
 
 # [[Aldeidek]]
+# [[Ketonok]]

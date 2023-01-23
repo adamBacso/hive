@@ -11,3 +11,5 @@ tags:
 józan
 bölcs
 tekintélyes
+
+[[rezonőr]]

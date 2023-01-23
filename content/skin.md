@@ -8,7 +8,7 @@ tags:
  - sense_organs
 created: 2023.01.09 11:10
 created_by: Ádám
-status: review 
+status: done  
 ---
 different [[receptors]] distributed unequally (richest in fingertips, lips)
 

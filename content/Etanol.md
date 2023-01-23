@@ -9,9 +9,9 @@ tags:
  - oxigéntartalmú
 created: 2023.01.11 10:19
 created_by: Ádám
-status: review 
+status: done 
 ---
-$\ce{CH3\bond{-}CH2\bond{-}OH}$
+$CH_3-CH_2-OH$
 színtelen, kellemes illatú folyadék
 víznél kisebb sűrűsségű
 >[!attention] Vízzel elegyedik
@@ -27,25 +27,26 @@ tökéletes (halványkék láng)
 ## Vízzel való reakció ([[kémhatás]])
 semleges
 ## Nátriummal való reakció 
-$$\ce{C2H5\bond{1}OH\bond{1}2Na =2C2H5\bond{1}O^{-} + 2Na^{+} + H ^}$$
+$C_2H_2-OH-2Na[=]2C_2H_5-O^-+2Na^++H$↑
+
 >[!info] Nátrium-etanoát
->$\ce{2C2H5\bond{1}O^{-} + 2Na^{+}}$
+>$2C_2H_5-O^-+2Na^+$
 >só
 
 # Előfordulás
 alkoholos erjedés során keletkezik
 > gombák állítják elő szénhidrátokból (oxigénmentes környezetben)
->  >Cefre
+>  >cefre
 
 _max ___15-18%__ alkolohtartalom_
->[[desztilláció]]bal 96%
+>[[desztilláció]]val 96%
 
 $\ce{C6H12O6 -> 2C2H5\bond{1}OH +2CO2}$
 2 [[ATP]]
 
 ## Mesterséges előállítás
 etén és víz egyesülése
-$\ce{CH2\bond{2}CH2 +H2O -> CH3\bond{1}CH2\bond{1}OH}$
+$CH_2=CH_2+H_2O$ → $CH_3-CH_2-OH$
 
 ### Felhasználás
 poláris és apoláris anyagokat is old

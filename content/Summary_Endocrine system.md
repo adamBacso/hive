@@ -8,7 +8,7 @@ tags:
  - endocrine_system
 created: 2023.01.11 09:23
 created_by: Ádám
-status: review  
+status: done   
 ---
 # What is the task of the neuroendocrine system? (2p)
 maintenance of homeostasis

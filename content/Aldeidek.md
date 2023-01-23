@@ -16,7 +16,7 @@ Olyan [[oxovegyület]] amelyben az oxocsoport láncvégi szénatomhoz kapcsolód
 ![|350](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNz4XlAqw5-ACqmA6SAy1r_JT-3nA2dpDga6pKI4UgiiKaXpodWTnldrLvsvXTSIn9_4w&usqp=CAU)
 formilcoport
 # Elnevezés
-metanal
+[[formaldehid|metanal]]
 
 # Fizikai tulajdonságok
 ## Halmazállapot
@@ -30,3 +30,9 @@ alacsonyabb mint a megfelelő szénatomszámú alkoholoké, de magasabb mint a s
 ## Oldhatóság
 kis C-szám: jól oldódik vízben
 nagy C-szám: vízben oldhatatlan
+
+redukáló
+
+# Példák
+[[formaldehid]]
+[[acetaldehid]]

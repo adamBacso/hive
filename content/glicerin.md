@@ -9,10 +9,10 @@ tags:
  - oxigéntartalmú
 created: 2023.01.13 10:31
 created_by: Ádám
-status: review 
+status: done  
 ---
 színtelen, sűrűn folyó folyadék
-![|300](https://www.careerstoday.in/images/chemistry/glycerol-formula1.jpg)
+![|400](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Glycerine_chemical_structure.png/800px-Glycerine_chemical_structure.png)
 >[!important] Nem mérgező
 
 # Felhasználás
