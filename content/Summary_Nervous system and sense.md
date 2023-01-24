@@ -27,7 +27,8 @@ action potential is reached when the cell is stimulated
 - motor neurons 
 
 # Name the 2 parts of the nervous system with their parts! (6p)
-[[central nervous system]] - [[brain]] , [[spinal cord]] 
+[[central nervous system]] - [[brain]] , [[spinal cord]]
+
 [[peripheral nervous system]] - ganglia, nerves
 
 # Name the parts of the brain diagram! (cerebrum, cerebellum, brainstem, diencephalon) (4p)
