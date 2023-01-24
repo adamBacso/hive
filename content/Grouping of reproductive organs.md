@@ -20,7 +20,7 @@ status: empty
 - vaginal opening
 - labia
 - clitoris
-# External reproductive organs 
+# Internal reproductive organs 
 ## Males 
 - 2 testicles
 - 2 epididymis

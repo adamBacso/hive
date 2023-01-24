@@ -7,7 +7,8 @@
   await tp.file.rename(title)
  }
  //Change note type
- type=await tp.system.suggester(["note","class_note", "template", "other"], ["note", "template", "other"])
+ const types = ["note", "main_note", "class_note", "template", "other"]
+ type=await tp.system.suggester(types, types)
  if (type=="other"){
   type=await tp.system.prompt("Type")
  }
@@ -38,4 +39,5 @@ tags:
 created: <%tp.file.creation_date(format="YYYY.MM.DD HH:mm")%>
 created_by: Ádám
 status: draft
+summary: 
 ---

@@ -11,7 +11,7 @@ created_by: Ádám
 status: review 
 ---
 
-# Why do neurons differ from other cells?(3p)
+#  Why do neurons differ from other cells?(3p)
 Special membrane with [[sodium-potassium pump|ion channels]] → negative charge inside, positive outside
 *excitable because of that*
 

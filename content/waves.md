@@ -1,7 +1,7 @@
 ---
 title: "waves"
 alias: 
-type: note
+type: main_note
 subject: physics
 tags:
  - physics
@@ -28,3 +28,7 @@ $T_{wave}=T_{oscillation}$
 [[characteristic wave speeds]]
 
 [[class problems]]
+
+[[oscillations on a string]]
+
+[[sound]]

@@ -15,3 +15,5 @@ _high frequencies_ on the base
 _low frequencies_ on the bottom
 
 human ear is sensitive to 20-20000 Hz
+
+![cochlea](https://cdn.britannica.com/98/14298-004-99934987/basilar-membrane-sound-frequencies-analysis-base-fibres.jpg)

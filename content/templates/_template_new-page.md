@@ -22,7 +22,7 @@
  front_matter.push('"\nalias: ')
 
  front_matter.push("\ntype: ")
- front_matter.push(tp.frontmatter.type)
+ front_matter.push("note")
 
  front_matter.push("\nsubject: ")
  front_matter.push(tp.frontmatter.subject)
@@ -36,10 +36,13 @@
  front_matter.push("\ncreated_by: ")
  front_matter.push("Ádám")
 
-  front_matter.push("\nstatus: ")
+ front_matter.push("\nstatus: ")
  front_matter.push("empty")
 
+ front_matter.push("\nsummary: ")
+
  front_matter.push("\n---")
+ front_matter.push("\n> [!info] This page does not exist (yet)!")
  
  fm=front_matter.join("")
  tp.file.create_new(fm,tp.file.selection())
