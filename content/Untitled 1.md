@@ -9,6 +9,7 @@ tags:
  - statistics
 created: 2023.01.23 13:05
 created_by: Ádám
-status: emptysummary: 
+status: empty
+summary: 
 ---
 > [!info] This page does not exist (yet)!
