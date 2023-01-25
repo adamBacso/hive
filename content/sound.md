@@ -23,6 +23,9 @@ frequency: pitch
 amplitude: loudness
 overtones: timbre
 
+[[infrasound]]: <20 Hz
+[[ultrasound]]: >20 000 Hz
+
 # Frequency - Pressure graph
 ![frequency-pressure](https://www.onosokki.co.jp/English/hp_e/patio/images/loudness_graph_e.png)
 

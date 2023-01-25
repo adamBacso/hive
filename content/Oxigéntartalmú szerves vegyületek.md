@@ -19,4 +19,9 @@ status: draft
 - [[hidroxilcsoport]] ($-OH$) → [[hidroxi vegyület]]
 - [[étercsoport]] ($-O-$) → [[éter]]
 - [[oxocsoport]] ($=OH$) → [[oxovegyület]]
+
+# 2 oxigén tartalmú szerves vegyületek 
+- [[karbonsavak]]
+
+
   

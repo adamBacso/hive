@@ -13,5 +13,5 @@ status: draft
 ---
 mindkét kötése ugyanazzal a szénatommal van az _oxigénnek_
 
-# [[Aldeidek]]
+# [[Aldehidek]]
 # [[Ketonok]]

@@ -36,10 +36,13 @@
  front_matter.push("\ncreated_by: ")
  front_matter.push("Ádám")
 
- front_matter.push("\nstatus: ")
- front_matter.push("empty")
+ front_matter.push("\nTARGET DECK: ")
+ front_matter.push(tp.frontmatter.subject)
 
  front_matter.push("\nsummary: ")
+
+ front_matter.push("\nstatus: ")
+ front_matter.push("empty")
 
  front_matter.push("\n---")
  front_matter.push("\n> [!info] This page does not exist (yet)!")

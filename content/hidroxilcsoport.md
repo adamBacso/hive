@@ -12,3 +12,7 @@ created_by: Ádám
 status: done 
 ---
 egyik kötésével hidrogénhez, másikkal szénatomhoz kapcsolódik az _oxigén_
+
+# Q: Milyen a hidroxil csoport polaritása?
+erősen poláris
+<!--ID: 1674639202522-->

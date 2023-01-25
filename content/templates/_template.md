@@ -38,6 +38,7 @@ tags:
  - <%tagF%>
 created: <%tp.file.creation_date(format="YYYY.MM.DD HH:mm")%>
 created_by: Ádám
-status: draft
+TARGET DECK: <%subj%>
 summary: 
+status: draft
 ---

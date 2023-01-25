@@ -1,5 +1,5 @@
 ---
-title: "Aldeidek"
+title: "Aldehidek"
 alias: 
 type: note
 subject: chemistry
