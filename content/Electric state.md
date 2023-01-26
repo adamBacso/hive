@@ -24,6 +24,6 @@ There are two electric states:
 
 *[[conductors]]* and *[[insulators]]*
 
->Electic is caused by excess / lack of electrons 
+>Electric is caused by excess / lack of electrons 
 
 All charges are the multiples of the charge of an electron, called [[elementary charge]]

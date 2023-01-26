@@ -13,7 +13,7 @@
   type=await tp.system.prompt("Type")
  }
  //Change subject
- const subjects = ["biology", "physics", "geography", "math", "french", "german", "spanish", "history", "magyar", "chemistry", "none"]
+ const subjects = ["biology", "physics", "geography", "math", "french", "german", "spanish", "history", "magyar", "chemistry", "english", "none"]
  if (type!="none"){
   subj=await tp.system.suggester(subjects, subjects)
  } else {

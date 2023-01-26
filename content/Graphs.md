@@ -17,3 +17,5 @@ summary:
 ![](Pasted%20image%2020230124112034.png)
 # [[Line graph]] 
 ![](Pasted%20image%2020230124112554.png)
+# [[Histogram]]
+![histogram](Pasted%20image%2020230126092228.png)
