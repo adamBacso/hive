@@ -1,14 +1,15 @@
 ---
-title: "# Graphs"
+title: "modal class"
 alias: 
 type: note
 subject: math
 tags:
  - math
  - statistics
-created: 2023.01.23 13:05
+created: 2023.01.27 11:33
 created_by: Ádám
-status: empty
+TARGET DECK: math
 summary: 
+status: empty
 ---
 > [!info] This page does not exist (yet)!

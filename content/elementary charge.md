@@ -10,8 +10,8 @@ created: 2023.01.25 13:29
 created_by: Ádám
 TARGET DECK: physics
 summary: 
-status: empty
+status: done 
 ---
 $$e=1.6\cdot 10^{-19}C$$
->\[C] = 
+>\[C] = coulomb
 

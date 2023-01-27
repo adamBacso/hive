@@ -49,3 +49,7 @@ $$2,4,1,3,5,4,4,3,5,4,2,6,3,5,4$$
 | 6   |     1     |        1/15            |        15              |
 
 # [[Graphs]]
+
+*[[mode]]*, *[[median]]*, and *[[mean]]* ([[mode, median, mean examples|Examples]])
+
+[[data classes]]

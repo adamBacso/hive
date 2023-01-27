@@ -16,9 +16,9 @@ status: draft
 
 # 1 oxigén tartalmú szerves vegyületek csoportosítása
 > Oxigén 2 kötés kialakítására képes → 3 féle [[funkciós csoport]]
-- [[hidroxilcsoport]] ($-OH$) → [[hidroxi vegyület]]
-- [[étercsoport]] ($-O-$) → [[éter]]
-- [[oxocsoport]] ($=OH$) → [[oxovegyület]]
+- [[hidroxilcsoport]] ($\ce{\bond{1}OH}$) → [[hidroxi vegyület]]
+- [[étercsoport]] ($\ce{\bond{1}O\bond{1}}$) → [[éter]]
+- [[oxocsoport]] ($\ce{\bond{2}OH}$) → [[oxovegyület]]
 
 # 2 oxigén tartalmú szerves vegyületek 
 - [[karbonsavak]]

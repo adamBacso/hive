@@ -9,7 +9,7 @@ tags:
  - oxigéntartalmú
 created: 2023.01.11 10:05
 created_by: Ádám
-status: empty
+status: review
 ---
 szimmetrikus éterek:
 $$\ce{CH_3\bond{1}O\bond{1}CH_3}$$
