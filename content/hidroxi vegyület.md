@@ -11,4 +11,5 @@ created: 2023.01.11 10:05
 created_by: Ádám
 status: draft
 ---
+[[hidroxilcsoport]]ot tartalmazó vegyületek
 [[alkohol]]

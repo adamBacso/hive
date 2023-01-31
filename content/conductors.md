@@ -12,8 +12,13 @@ TARGET DECK: physics
 summary: 
 status: draft
 ---
-contain free charges
-
+>contain free charges
 # Q: Examples of conductors 
 - metals
 - solutions of ionic compounds
+<!--ID: 1675108999540-->
+
+
+electric charge is distributed “evenly”
+
+When put into an [[electric field]], the charges on it are separated

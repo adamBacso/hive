@@ -4,8 +4,10 @@
  const tagL=[]
  for (tag of tags){
   tag=tag.slice(1)
-  tagL.push("\n - ")
-  tagL.push(tag)
+  if (tag!="main"){
+   tagL.push("\n - ")
+   tagL.push(tag)
+  }
  }
  tags=tagL.join("")
 

@@ -10,8 +10,14 @@ tags:
 created: 2023.01.11 10:19
 created_by: Ádám
 status: done 
+TARGET DECK: chemistry 
 ---
-$CH_3-CH_2-OH$
+# Q: Mi az etanol képlete? 
+$\ce{CH3\bond{1}CH2\bond{1}OH}$ 
+<!--ID: 1674987152376-->
+
+
+
 színtelen, kellemes illatú folyadék
 víznél kisebb sűrűsségű
 >[!attention] Vízzel elegyedik

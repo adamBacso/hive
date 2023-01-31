@@ -10,7 +10,14 @@ tags:
 created: 2023.01.11 10:05
 created_by: Ádám
 status: review
+TARGET DECK: chemistry 
 ---
+# Q: Mi az éterek két fajtája?
+szimmetrikus és vegyes éterek 
+<!--ID: 1674851001759-->
+
+
+
 szimmetrikus éterek:
 $$\ce{CH_3\bond{1}O\bond{1}CH_3}$$
 > dimetil*éter*

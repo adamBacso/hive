@@ -11,11 +11,15 @@ created: 2023.01.11 10:18
 created_by: Ádám
 status: done
 ---
->[!info] Def
-> Olyan [[hidroxi vegyület]] ahol a [[hidroxilcsoport]]  telített szénatomhoz kapcsolódik
+# Q: Mi egy alkohol?
+Olyan [[hidroxi vegyület]] ahol a [[hidroxilcsoport]]  telített szénatomhoz kapcsolódik
+<!--ID: 1674987152385-->
 
->[!info] Elnevezés
+
+# Q: Mi az alkoholok elnevezésének módja?
 >szénhidrogén neve után `-ol` végződés
+<!--ID: 1674987152393-->
+
 # Példák
 [[Etanol]]
 [[Metanol]]

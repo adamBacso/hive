@@ -14,7 +14,7 @@ status: empty
 ---
 # External reproductive organs 
 ## Males
-- penis
+- [[penis]]
 - scrotum
 ## Females
 - vaginal opening
@@ -22,13 +22,13 @@ status: empty
 - clitoris
 # Internal reproductive organs 
 ## Males 
-- 2 testicles
-- 2 epididymis
-- 2 vas deferenses
-- 2 seminal vesicles
-- prostate gland
+- 2 [[testicles]]
+- 2 [[epididymis]]
+- 2 [[vas deferense]]s
+- 2 [[seminal vesicles]]
+- [[prostate gland]]
 ## Females 
-- 2 ovaries
-- 2 fallopian tubes / uterine tubes 
+- 2 [[ovaries]]  
+- 2 [[fallopian tubes]] / uterine tubes 
 - [[uterus]] 
-- vagina
+- [[vagina]]
