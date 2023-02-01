@@ -16,3 +16,11 @@ status: draft
 $$\ce{HOOC-COOH}$$
 legegyszerűbb *2 értékű* karbonsav 
 [[hangyasav]]nál erősebb sav
+
+# Fizikai tulajdonság
+színtelen, kristályos anyag → magas olvadás- és forráspont
+
+>[!warning] Mérgező
+
+# Q: oxálsav sói
+oxalátok
