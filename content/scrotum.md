@@ -1,5 +1,5 @@
 ---
-title: "testicles"
+title: "scrotum"
 alias: 
 type: note
 subject: biology
@@ -14,7 +14,8 @@ TARGET DECK: biology
 summary: 
 status: draft 
 ---
-*equal with female ovaries*
+equals with the female [[labia]] 
 
-[[gonads]] and endocrine glands 
-→ produce 200-300 million immature sperm cells **per day**
+>regulates the temperature of [[testicles]] 
+
+sperm cells need 34°C for maturation

@@ -14,4 +14,12 @@ TARGET DECK: biology
 summary: 
 status: empty
 ---
-> [!info] This page does not exist (yet)!
+under the bladder
+produce *25-28%* of semen
+
+causes the semen’s alkaline pH (**activates sperm**)
+
+>[!important] Components of semen unite in the prostate gland 
+
+## During ejaculation
+muscular capsule contracts → transmits semen

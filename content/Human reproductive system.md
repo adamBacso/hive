@@ -12,8 +12,7 @@ created: 2023.01.23 11:35
 created_by: Ádám
 status: draft
 ---
->[!important] Aim
->to pass on characteristics with genes
+>[!important] Aim is to pass on characteristics with genes 
 
 # Differences between male-female
 ## Primary sexual characteristics 
@@ -30,3 +29,5 @@ status: draft
 - size of hand/feet
 
 [[Grouping of reproductive organs ]]
+
+# [[Pregnancy]]

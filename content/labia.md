@@ -1,5 +1,5 @@
 ---
-title: "testicles"
+title: "labia"
 alias: 
 type: note
 subject: biology
@@ -12,9 +12,6 @@ created: 2023.01.23 11:40
 created_by: Ádám
 TARGET DECK: biology
 summary: 
-status: draft 
+status: empty
 ---
-*equal with female ovaries*
-
-[[gonads]] and endocrine glands 
-→ produce 200-300 million immature sperm cells **per day**
+> [!info] This page does not exist (yet)!

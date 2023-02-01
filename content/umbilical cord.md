@@ -1,5 +1,5 @@
 ---
-title: "vas deferense"
+title: "umbilical cord"
 alias: 
 type: note
 subject: biology
@@ -8,10 +8,10 @@ tags:
  - reproduction
  - human_body
  - human
-created: 2023.01.23 11:40
+created: 2023.02.01 09:21
 created_by: Ádám
 TARGET DECK: biology
 summary: 
-status: empty
+status: draft 
 ---
-> [!info] This page does not exist (yet)!
+contains a **thick artery** and a **vein**

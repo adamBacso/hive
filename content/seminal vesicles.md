@@ -12,6 +12,10 @@ created: 2023.01.23 11:40
 created_by: Ádám
 TARGET DECK: biology
 summary: 
-status: empty
+status: draft 
 ---
-> [!info] This page does not exist (yet)!
+glands behind the bladder
+produce *70%* of semen
+
+## Seminal fluid contains…
+proteins, enzymes, vitamins, fructose (**E for sperms**)

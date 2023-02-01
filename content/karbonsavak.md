@@ -50,3 +50,14 @@ két molekula összekapcsolódása hidrogénkötésekkel
 # Kémiai tulajdonságok 
 - gyenge savak (szerves vegyületeknél legerősebb)
 - bázisokkal közömbösítési reakció (só és víz keletkezik)
+
+# Példák
+- [[hangyasav]] 
+- [[palmitinsav]]
+
+# Telítetlen karbonsavak
+- [[akrilsav]]
+- [[olajsav]]
+
+# Több értékű elektronok
+- [[oxálsav]]

@@ -15,16 +15,16 @@ status: empty
 # External reproductive organs 
 ## Males
 - [[penis]]
-- scrotum
+- [[scrotum]]
 ## Females
-- vaginal opening
-- labia
-- clitoris
+- [[vaginal opening]]
+- [[labia]]
+- [[clitoris]]
 # Internal reproductive organs 
 ## Males 
 - 2 [[testicles]]
 - 2 [[epididymis]]
-- 2 [[vas deferense]]s
+- 2 [[vas deferenses]]
 - 2 [[seminal vesicles]]
 - [[prostate gland]]
 ## Females 

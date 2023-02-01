@@ -1,5 +1,5 @@
 ---
-title: "testicles"
+title: "vas deferenses"
 alias: 
 type: note
 subject: biology
@@ -14,7 +14,4 @@ TARGET DECK: biology
 summary: 
 status: draft 
 ---
-*equal with female ovaries*
-
-[[gonads]] and endocrine glands 
-→ produce 200-300 million immature sperm cells **per day**
+>store sperms during emission and pass them on

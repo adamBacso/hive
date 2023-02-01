@@ -12,6 +12,8 @@ created: 2023.01.23 11:40
 created_by: Ádám
 TARGET DECK: biology
 summary: 
-status: empty
+status: draft 
 ---
-> [!info] This page does not exist (yet)!
+>place of sperm maturation and storage
+
+back surface of testicles
