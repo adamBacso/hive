@@ -9,9 +9,9 @@ tags:
  - reformation
 created: 2023.01.17 08:37
 created_by: Ádám
-status: empty
+status: draft 
 ---
-- religious authority lis in the Bible alone
+- religious authority is in the Bible alone
 - God is omnipotent, the individual is totally weak without any free will
 - **predestination**
 - success in life and business is a sign of salvation

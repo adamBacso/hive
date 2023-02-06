@@ -11,6 +11,9 @@ created_by: Ádám
 ---
 Siege of Buda by Ferdinand → Turks came & occupied it
 # → Tripartition
+
+^bc4b91
+
 - Habsburgs: Royal Hungary/Hungarian Kingdom
 - Turkish Occupied Hungary
 - Transylvanian Principality → vassal state of Ottomans

@@ -22,7 +22,7 @@ Angliában indult és Franciországban teljesedik ki
 - tudományok mindenhatóságát hirdeti
 - megtapasztalás, kísérletek és a logika előtérbe kerül
 - szabad gondolkodás
-- ideális társadalom ([[utópia]], [[disztópia]])
+- ideális társadalom ([[utópia]], [[disztópia]]
 
 [[Racionalizmus]]
 # Istenre vonatkozó felfogás
@@ -34,3 +34,7 @@ felvilágosodás nagy összefoglaló munkája
 # A művészetben
 - [[Francia klasszicista dráma]] 
 - [[Szentimentalizmus]]
+
+# Személyek
+[[William Blake]]
+[[Voltaire]] 

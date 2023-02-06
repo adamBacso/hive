@@ -21,9 +21,14 @@ $$\ce{C15H31 - COOH}$$
 
 # Q: palmitinsav sói
 palimátok
+<!--ID: 1675244744547-->
+
 
 # Q: palmitinsav előfordulás
 zsírokban és olajokban
+<!--ID: 1675244744563-->
+
 
 # Q: palmitinsav felhasználása
 napalm (robbanószer)
+<!--ID: 1675244744578-->

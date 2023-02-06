@@ -11,7 +11,7 @@ Obsidian is a dedicated editor for markdown files (format in which the hive is w
 # If you don't yet have Obsidian
 Download obsidian from [Obsidian.md](https://obsidian.md/). (No account is required)
 
-# Open `📂notes` as a vault
+# Open `📂content` as a vault
 1. Follow [[How to use GitHub|these steps]] to download sync notes using gitHub
 2. Open Obsidian
 3. Select `Open folder as vault`

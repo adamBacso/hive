@@ -24,3 +24,11 @@ színtelen, kristályos anyag → magas olvadás- és forráspont
 
 # Q: oxálsav sói
 oxalátok
+<!--ID: 1675244744484-->
+
+## Oxalátok előfordulása
+- sóska 
+- spenót
+
+## Oldhatóság
+**kálciumsói** vízoldhatatlan → vesekő

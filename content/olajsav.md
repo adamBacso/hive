@@ -21,9 +21,12 @@ kettős kötés 9. és 10. szénatom között
 
 # Q: olajsav oldhatóság
 vízben nem oldódik
+<!--ID: 1675244744508-->
+
 
 # Egyesülés
 brómmal és hidrogénnel (**telíthető**)
 
 # Q: olajsav sói
 oleátok
+<!--ID: 1675244744525-->

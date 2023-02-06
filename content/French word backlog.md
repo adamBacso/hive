@@ -22,15 +22,15 @@ status: draft
 - [x] 	étudier 	to study
 - [x] 	travailler 	to work
 - [x] 	danser 	to dance
-- [ ] 	ressembler 	to look like
+- [x] 	ressembler 	to look like
 - [x] 	détester 	to hate
 - [x] 	aimer 	to like, to love
 - [x] 	avoir 	to have
 - [x] 	être 	to be
 - [x] 	aller 	to go
 - [x] 	acheter 	to buy
-- [ ] 	préférer 	to like better
-- [ ] 	essayer 	to try
+- [x] 	préférer 	to like better
+- [x] 	essayer 	to try
 - [ ] 	payer 	to pay
 - [ ] 	prendre 	to take
 - [ ] 	devenir 	to become

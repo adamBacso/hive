@@ -1,5 +1,5 @@
 ---
-title: "deizmus"
+title: "William Blake"
 alias: 
 type: note
 subject: magyar
@@ -8,7 +8,11 @@ tags:
  - felvilágosodás
 created: 2023.01.24 09:04
 created_by: Ádám
-status: empty
+TARGET DECK: magyar
 summary: 
+status: draft
 ---
-Isten csak megteremtette a világot (nem avatkozik bele)cinikus
+A tapasztalás dalai
+Az ártatlanság dalai
+
+[[Tigris - bárány]] 

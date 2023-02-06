@@ -23,6 +23,7 @@ status: draft
 
 # 2 oxigén tartalmú szerves vegyületek 
 - [[karbonsavak]]
+- [[észterek]]
 
 
   

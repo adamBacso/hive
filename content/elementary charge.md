@@ -16,3 +16,5 @@ $$e=1.6\cdot 10^{-19}C$$
 >Sign: Q
 >\[C] = coulomb
 
+[[Coulomb’s law]]
+
