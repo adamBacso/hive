@@ -20,7 +20,10 @@ $$V_{AB}=\frac{W}{q}$$
 $[V_{AB}]=\frac{J}{C}=1V$ (volt)
 > >other term is *voltage*
 
+^05d86c
+
 ![[work-kinetic energy theorem]]
 
 >[!warning] Electrostatic potential energy 
 >[[conservation of energy]] can include the electrostatic potential energy
+

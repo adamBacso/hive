@@ -33,7 +33,8 @@ $[\vec{E}]=\frac{N}{C}(=\frac{V}{m})$
 - electric desooting (*koromleválasztás*)
 - electrostatic painting (**sintering**)
 
-# Images
->![separation of charge](https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/222/2016/02/20113028/Figure_19_07_03a.jpg)
->
->![polarization](https://i.stack.imgur.com/PPHPh.jpg)
+>[!important] Around curved objects
+>around pointed parts of [[conductors]] electric field is stronger, it may ionise **air** particles, which then are repelled
+>- [[electric wind]]
+>- [[electrically charged channel]]
+

@@ -19,3 +19,5 @@ no free charges
 - rubber
 - porcelaine
 - air
+
+![polarization](https://i.stack.imgur.com/PPHPh.jpg)

@@ -11,7 +11,7 @@ created_by: Ádám
 status: draft
 summary: 
 ---
-Angliában indult és Franciországban teljesedik ki
+Angliában indult és Franciaországban teljesedik ki
 > Korszellem
 
 >[!info] Felvilágosodás lényege
@@ -22,7 +22,7 @@ Angliában indult és Franciországban teljesedik ki
 - tudományok mindenhatóságát hirdeti
 - megtapasztalás, kísérletek és a logika előtérbe kerül
 - szabad gondolkodás
-- ideális társadalom ([[utópia]], [[disztópia]]
+- ideális társadalom ([[utópia]], [[disztópia]])
 
 [[Racionalizmus]]
 # Istenre vonatkozó felfogás
@@ -38,3 +38,5 @@ felvilágosodás nagy összefoglaló munkája
 # Személyek
 [[William Blake]]
 [[Voltaire]] 
+[[Johann Wolfgang von Goethe]]
+
