@@ -17,3 +17,9 @@ status: draft
 - the Sultan had to consent to a new prince
 
 [[Estates of the Transylvanian Principality]] 
+
+# Rulers
+- **1541-1571**: [[Szapolyai János Zsigmond]] 
+- **1571-1586**: [[Bátori István]]
+- **1604-*1606***: [[Bocskai István]]
+- **1613-1629**: [[Bethlen Gábor]]

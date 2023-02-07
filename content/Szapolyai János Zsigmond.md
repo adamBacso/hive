@@ -1,5 +1,5 @@
 ---
-title: "Szapolyai János"
+title: "Szapolyai János Zsigmond"
 alias: 
 type: history
 tags:

@@ -12,7 +12,7 @@ created_by: Ádám
 status: review 
 ---
 ![[History 01.10]]
-[[Habsburg Ferdinánd]] v. [[Szapolyai János]] v. [[Suleiman I]]
+[[Habsburg Ferdinánd]] v. [[Szapolyai János Zsigmond]] v. [[Suleiman I]]
 
 Szapolyai was elected king as the Diet of Székesfehérvár in 1526 decreed that the king must be Hungarian. Ferdinand pressed his legitimacy and attacked Szapolyai at Tokaj in 1527. After being defeated, Szapolyai fled the country.
 
@@ -35,3 +35,5 @@ __1540__: #info
 | Type of government             | estate monarchy                                       | despotic monarchy                                                                        | estate monarchy                                                       |
 | Positive effects of new status | periphery of a large empire, money spent on military; | new buildings; Turks and South Slavs moved into towns; greater independence for peasants | independent internal affairs; hungarian culture supported by culture; |
 | Negative effects of new status | lost independence, non-hungarian decision making;     | non-hungarian decision making;                                                           |                                                                       |
+
+# [[Expulsion of the Turks]]

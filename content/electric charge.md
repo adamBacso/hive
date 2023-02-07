@@ -1,5 +1,5 @@
 ---
-title: "elementary charge"
+title: "electric charge"
 alias: 
 type: note
 subject: physics
@@ -12,9 +12,13 @@ TARGET DECK: physics
 summary: 
 status: done 
 ---
+[[Coulomb’s law]]
+# Elementary charge
 $$e=1.6\cdot 10^{-19}C$$
 >Sign: Q
 >\[C] = coulomb
 
-[[Coulomb’s law]]
+
+# [[Work in the electric field]]
+
 

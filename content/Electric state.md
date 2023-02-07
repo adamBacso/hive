@@ -26,4 +26,4 @@ There are two electric states:
 
 >Electric is caused by excess / lack of electrons 
 
-All charges are the multiples of the charge of an electron, called [[elementary charge]]
+All charges are the multiples of the charge of an electron, called [[electric charge]]

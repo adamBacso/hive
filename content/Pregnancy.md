@@ -56,3 +56,15 @@ the *zygote* dicides and travels a week into the uterus → begins [[implantatio
 - moves less (lack of space)
 - turns into a downward position (*last month*)
 - fetus descends in *last 4 weeks*
+
+# Childbirth
+
+>the hypothalamus of the fetus initiates it
+
+1. contraction of the [[uterus]] 
+2. the [[caul]] ruptures, [[amniotic fluid]] flows away
+3. [[cervix]] opens up ^59e81a
+4. [[expulsion stage]]
+5. placenta is pushed out (after baby)
+
+(labor lasts 3-20 hours)

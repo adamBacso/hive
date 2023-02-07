@@ -14,4 +14,4 @@ status: draft
 ---
 >connects the vagina and the body of uterus
 
-closed except during childbirth and [[menstruation]]
+closed except during [[Pregnancy#^59e81a|childbirth]] and [[menstruation]]

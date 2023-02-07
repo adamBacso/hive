@@ -31,25 +31,25 @@ status: draft
 - [x] 	acheter 	to buy
 - [x] 	préférer 	to like better
 - [x] 	essayer 	to try
-- [ ] 	payer 	to pay
-- [ ] 	prendre 	to take
-- [ ] 	devenir 	to become
+- [x] 	payer 	to pay
+- [x] 	prendre 	to take
+- [x] 	devenir 	to become
 - [x] 	comprendre 	to understand
-- [ ] 	venir 	to come
-- [ ] 	vivre 	to live
-- [ ] 	mettre 	to put, put on, felhasználni, bekapcsolni
+- [x] 	venir 	to come
+- [x] 	vivre 	to live
+- [x] 	mettre 	to put, put on, felhasználni, bekapcsolni
 - [x] 	boire 	to drink
 - [x] 	descendre 	to go down; to get off
 - [x] 	sortir 	to go out
-- [ ] 	courir 	to run
-- [ ] 	attendre 	várni, elvárni, számítani vkire
-- [ ] 	entendre 	to hear, to pay attention
-- [ ] 	vendre 	to sell
-- [ ] 	faire 	to do, to make
-- [ ] 	choisir 	to choose
-- [ ] 	pouvoir 	to be able to
-- [ ] 	vouloir 	to want
-- [ ] 	envoyer 	to send
+- [x] 	courir 	to run
+- [x] 	attendre 	várni, elvárni, számítani vkire
+- [x] 	entendre 	to hear, to pay attention
+- [x] 	vendre 	to sell
+- [x] 	faire 	to do, to make
+- [x] 	choisir 	to choose
+- [x] 	pouvoir 	to be able to
+- [x] 	vouloir 	to want
+- [x] 	envoyer 	to send
 - [x] 	dormir 	to sleep
 - [ ] 	se louer 	elégedett vmivel
 - [ ] 	passer 	to pass. to spend time, átmenni, játszani filmet, eltűnni, lenni vmivé, felkapni ruhát, megbocsátani, bekenni, kihagyni, lemondani vmiről, történni, alakulni

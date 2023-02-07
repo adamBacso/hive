@@ -15,7 +15,7 @@ created_by: Ádám
 - Ceased to be a regional great power.
 - Buda was ransacked
 - Struggle for power between nobles increased in the wake of the defeat.
-	- [[Szapolyai János]]
+	- [[Szapolyai János Zsigmond]]
 	- [[Habsburg Ferdinánd]]
 
 [[Tripartition]]

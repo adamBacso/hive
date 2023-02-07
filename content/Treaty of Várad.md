@@ -10,7 +10,7 @@ tags:
 created: 2023.01.09 09:15
 created_by: Ádám
 ---
-> Whether or not he has an heir, after [[Szapolyai János]]’s death, [[Habsburg Ferdinánd]] would become king
+> Whether or not he has an heir, after [[Szapolyai János Zsigmond]]’s death, [[Habsburg Ferdinánd]] would become king
 
 >[!info] If Ferdinand is king…
 >unity and development

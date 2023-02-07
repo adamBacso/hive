@@ -47,7 +47,7 @@
  front_matter.push("empty")
 
  front_matter.push("\n---")
- front_matter.push("\n> [!info] This page does not exist (yet)!")
+ front_matter.push("\n> [!fail] This page does not exist (yet)!")
  
  fm=front_matter.join("")
  tp.file.create_new(fm,tp.file.selection())
