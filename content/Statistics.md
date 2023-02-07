@@ -25,6 +25,7 @@ summary: the collection, analysis, representation and interpretation of data
 
 >[!info] Variables
 >**[[discrete variable]]** or **[[continuous variable]]**
+>[[changing a variable]]
 
 > [!info] Types of Frequency 
 > **[[frequency]]**
