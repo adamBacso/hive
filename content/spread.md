@@ -10,9 +10,7 @@ created: 2023.01.23 13:05
 created_by: Ádám
 TARGET DECK: math
 summary: 
-status: draft 
-[blackfriday]
-	extensions =  ["hardLineBreak"]
+status: draft
 ---
 # Range
 >the difference between its extreme values
