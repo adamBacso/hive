@@ -34,6 +34,7 @@ $[\vec{E}]=\frac{N}{C}(=\frac{V}{m})$
 - electrostatic painting (**sintering**)
 
 >[!important] Around curved objects
+>
 >around pointed parts of [[conductors]] electric field is stronger, it may ionise **air** particles, which then are repelled
 >- [[electric wind]]
 >- [[electrically charged channel]]
