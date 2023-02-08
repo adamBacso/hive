@@ -35,6 +35,9 @@ olyan oxigéntartalmú szerves vegyületek melyek funkciós csoportja az *[[ész
 - jó oldószer
 - műanyaggyártás
 
+>[!info] Lúgos hidrolízis 
+>[[szappan|elszappanosítás]]
+
 # Típusok
 [[gyümölcsészterek]]
 [[viaszok]]
