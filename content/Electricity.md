@@ -1,7 +1,7 @@
 ---
 title: "Electricity"
 alias: 
-type: note
+type: main_note 
 subject: physics
 tags:
  - physics
@@ -14,3 +14,5 @@ status: draft
 ---
 # [[Electric state]]
 >By rubbing, bodies get into a special state when they attract small nearby objects
+
+# [[electric current]]

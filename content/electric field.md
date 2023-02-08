@@ -39,3 +39,4 @@ $[\vec{E}]=\frac{N}{C}(=\frac{V}{m})$
 >- [[electric wind]]
 >- [[electrically charged channel]]
 
+>created by an [[emf source]]

@@ -27,7 +27,9 @@ pl. $\ce{C17H35 - COONa <-> C17H35 - COO- + Na+}$
 kevés szappan oldva → feji része vízben (**poláris**), farki része levegőben (**apoláris**)
 egy réteg = *lamella*
 #diagram #info
-
+,
 # Micella
 sok szappan → víz belsejébe kényszerül
 apoláris részek **gömb** belsejébe kerülnek, **poláris** részek kívülre
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Micelle_scheme-hu.svg/1280px-Micelle_scheme-hu.svg.png)
+>https://hu.wikipedia.org/wiki/Kolloid
