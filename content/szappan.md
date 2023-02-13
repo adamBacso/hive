@@ -23,13 +23,13 @@ Kálium hidroxid: **lágy** szappan
 vízben ionokra disszociál
 pl. $\ce{C17H35 - COONa <-> C17H35 - COO- + Na+}$ 
 
-# Lamella
-kevés szappan oldva → feji része vízben (**poláris**), farki része levegőben (**apoláris**)
-egy réteg = *lamella*
-#diagram #info
-,
-# Micella
-sok szappan → víz belsejébe kényszerül
-apoláris részek **gömb** belsejébe kerülnek, **poláris** részek kívülre
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Micelle_scheme-hu.svg/1280px-Micelle_scheme-hu.svg.png)
->https://hu.wikipedia.org/wiki/Kolloid
+![[Lamella]]
+![[Micella]]
+
+
+# Kémiai tulajdonságok
+- vízes oldata: **lúgos**
+
+gyenge sav + erős bázis = só
+
+$\underset{\text{szappan negatívion}}{\ce{R-COO-}}$$\ce{+ HCl ->}$$\underset{\text{karbonsav}}{\ce{R-COOH}}$$\ce{+ Cl-}$

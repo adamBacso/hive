@@ -9,7 +9,7 @@ tags:
  - sense_organs
 created: 2023.01.09 11:15
 created_by: Ádám
-status: empty
+status: done 
 summary: 
 ---
 small bones in the middle ear that intensify vibrations *with a limit*

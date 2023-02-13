@@ -8,7 +8,7 @@ tags:
  - felvilágosodás
 created: 2023.01.24 09:04
 created_by: Ádám
-status: empty
+status: done 
 summary: 
 ---
 Isten egyenlő a világgal (a természet minden elemében benne van)

@@ -9,7 +9,7 @@ tags:
  - oxigéntartalmú
 created: 2023.01.11 10:15
 created_by: Ádám
-status: empty
+status: done 
 ---
 Olyan [[oxovegyület]] amelyben az oxocsoport láncvégi szénatomhoz kapcsolódik
 

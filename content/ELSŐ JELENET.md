@@ -9,7 +9,7 @@ tags:
  - source_material
 created: 2023.01.02 21:19
 created_by: Ádám
-status: empty
+status: review 
 ---
 # Kit, kiket képvisel Pernelle asszony az első jelenetben? Miért érezzük úgy, hogy ő áll a jelenet középpontjában?
 Ő az aki búcsúzkodik, ő tudatja nézeteit elsősorban

@@ -15,4 +15,4 @@ status: draft
 # Felvilágosodás 
 ![[Felvilágosodás]] 
 # Német felvilágosodás 
-[[Weimari klasszika]]: Goethe, Schiller
+[[Weimari klasszika]]: [[Johann Wolfgang von Goethe|Goethe]], Schiller

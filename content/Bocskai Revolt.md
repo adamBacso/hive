@@ -11,7 +11,7 @@ created: 2023.02.06 09:14
 created_by: Ádám
 TARGET DECK: history
 summary: 
-status: empty
+status: review 
 ---
 - religious tolerance
 - [[palatine]] had more importance

@@ -10,7 +10,7 @@ tags:
  - human
 created: 2023.01.23 11:35
 created_by: Ádám
-status: empty
+status: review 
 ---
 # External reproductive organs 
 ## Males

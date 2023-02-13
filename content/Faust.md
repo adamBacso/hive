@@ -1,19 +1,18 @@
 ---
-title: "Johann Wolfgang von Goethe"
+title: "Faust"
 alias: 
 type: note
 subject: magyar
 tags:
  - magyar
  - felvilágosodás
-created: 2023.01.24 09:04
+created: 2023.02.07 09:23
 created_by: Ádám
 TARGET DECK: magyar
 summary: 
 status: draft 
 ---
-1749-1832
+![[emberisékköltemény]]
 
-[[Faust]]
-
-[[Német felvilágosodás]] 
+Mefisztó: ördög
+Faust: ördöggel alkut köt (*motívum*)

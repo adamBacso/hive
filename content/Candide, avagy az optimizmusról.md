@@ -10,7 +10,7 @@ created: 2023.02.03 12:15
 created_by: Ádám
 TARGET DECK: magyar
 summary: 
-status: empty
+status: done 
 ---
 [[tézisregény]], [[pikareszk]]
 # Candide 

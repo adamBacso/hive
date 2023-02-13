@@ -11,7 +11,7 @@ created: 2023.01.25 10:18
 created_by: Ádám
 TARGET DECK: chemistry
 summary: 
-status: empty
+status: review  
 ---
 $$\ce{C17H33-COOH}$$
 kettős kötés 9. és 10. szénatom között

@@ -4,7 +4,7 @@ alias:
 type: note
 subject: magyar 
 tags:
- - math
+ - magyar 
  - műfaj
 created: 2023.01.27 13:22
 created_by: Ádám

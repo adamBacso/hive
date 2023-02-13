@@ -9,7 +9,7 @@ tags:
  - oxigéntartalmú
 created: 2023.01.11 10:15
 created_by: Ádám
-status: empty
+status: done 
 TARGET DECK: chemistry
 ---
 olyan oxo vegyületek melyekben az [[oxocsoport]]  láncközi szénatomhoz kapcsolódik

@@ -11,9 +11,9 @@ created: 2023.02.03 10:07
 created_by: Ádám
 TARGET DECK: chemistry
 summary: 
-status: empty
+status: done 
 ---
-zsírok és olajok
+[[zsír|zsírok]]  és [[olaj|olajok]] 
 
 **alkohol**: glicerin 
 3 nagymértető karbonsavval (zsírsav) reagál

@@ -9,7 +9,7 @@ tags:
  - oxigéntartalmú
 created: 2023.01.18 10:31
 created_by: Ádám
-status: empty
+status: done 
 ---
 színtelen, kellemetlen szagú gáz
 alacsony forráspont

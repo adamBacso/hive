@@ -11,7 +11,7 @@ created: 2023.02.03 10:38
 created_by: Ádám
 TARGET DECK: chemistry
 summary: 
-status: empty
+status: done 
 ---
 # Q: Olajok reakciója hidrogénnel
 *olajkeményítés*

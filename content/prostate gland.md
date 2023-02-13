@@ -12,7 +12,7 @@ created: 2023.01.23 11:40
 created_by: Ádám
 TARGET DECK: biology
 summary: 
-status: empty
+status: done 
 ---
 under the bladder
 produce *25-28%* of semen

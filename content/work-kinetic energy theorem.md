@@ -10,7 +10,7 @@ created: 2023.02.06 14:36
 created_by: Ádám
 TARGET DECK: physics
 summary: 
-status: empty
+status: draft 
 ---
 $$W=\Delta E_k$$
 >Work done = change in [[kinetic energy]] 

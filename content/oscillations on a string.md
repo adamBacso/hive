@@ -10,7 +10,7 @@ tags:
  - equation
 created: 2023.01.16 13:42
 created_by: Ádám
-status: empty
+status: done 
 summary: 
 ---
 ![|400](Pasted%20image%2020230123143154.png)

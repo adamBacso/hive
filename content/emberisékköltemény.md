@@ -1,15 +1,15 @@
 ---
-title: "tézisregény"
+title: "emberisékköltemény"
 alias: 
 type: note
 subject: magyar
 tags:
  - magyar
  - felvilágosodás
-created: 2023.02.03 12:20
+created: 2023.02.10 13:13
 created_by: Ádám
 TARGET DECK: magyar
 summary: 
 status: done 
 ---
-olyan regény, mely valamilyen filozófiai nézetet bizonyít vagy cáfol
+a dráma és líra ötvözete

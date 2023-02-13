@@ -10,6 +10,6 @@ created: 2023.02.01 10:21
 created_by: Ádám
 TARGET DECK: chemistry
 summary: 
-status: empty
+status: review 
 ---
 **víz** és **só**

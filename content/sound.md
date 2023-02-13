@@ -10,7 +10,7 @@ tags:
  - equation
 created: 2023.01.16 13:42
 created_by: Ádám
-status: empty
+status: review 
 summary: 
 ---
 Sound is a [[Longitudinal waves|longitudinal wave]] spreading in a flexible medium that is perceivable by the [[ears|ear]].
