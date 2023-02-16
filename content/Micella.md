@@ -23,6 +23,6 @@ apoláris részek **gömb** belsejébe kerülnek, **poláris** részek kívülre
 >apoláris farki rész feloldja a szennyeződést → **micella belsejébe kerül**
 >>vízzel eltávolítható
 
->[!warning] Nem kedvező szerekezet
+>[!warning] Nem kedvező szerkezet
 >mozgatás hatására növelni akarja a víz-levegő való hatásfelületét → buborék → habzás
 

@@ -1,6 +1,6 @@
 ---
 title: "XIV. Lajos"
-alias: 
+alias: "Louis XIV"
 type: person
 subject: none
 tags:
@@ -15,3 +15,5 @@ status: draft
 >“Sun-king” 
 
 Versailles
+
+introduced [[absolutism]] 

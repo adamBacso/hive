@@ -13,4 +13,7 @@ TARGET DECK: history
 summary: 
 status: draft 
 ---
-[[Zrínyi Miklós]]
+[[Zrínyi Miklós]]‘s military campaigns → forced fight against the Turks (victory at Szentgotthárd)
+
+[[Treaty of Vasvár]]
+

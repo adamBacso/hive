@@ -22,7 +22,7 @@ vízben jól oldódik → [[formalin]]
 ## Égés
 tökéletes
 ## Ezüst tükör próba
-**ezüst ion**okat tartalmazó oldatot formaldehid jelenlétében melegítünk **lugos** közegben
+**ezüst ion**okat tartalmazó oldatot formaldehid jelenlétében melegítünk **lúgos** közegben
 ezüst ion (redukálódnak) → fém ezüst 
 formaldehid → hangyasav
 >egységes ezüst bevonat: tükröződik

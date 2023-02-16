@@ -2,7 +2,7 @@
 title: "ELSŐ JELENET"
 alias: "Molière-első jelenet"
 type: 
-subject: 
+subject: magyar 
 tags:
  - magyar
  - tartuffe

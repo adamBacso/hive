@@ -38,7 +38,7 @@ magas (*hidrogénkötés*)
 <!--ID: 1674648757387-->
 
 ## Q: Karbonsav dimerizációja
-két molekula összekapcsolódása hidrogénkötésekkel
+két molekula összekapcsolódása **hidrogénkötésekkel**
 ![dimerizáció](http://cms.sulinet.hu/get/d/76fe90e3-1615-4cb4-b2a3-a4e9aec6896e/1/6/b/Large/k0378_n.jpg)
 <!--ID: 1674648757415-->
 

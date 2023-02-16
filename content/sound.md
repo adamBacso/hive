@@ -13,7 +13,7 @@ created_by: Ádám
 status: review 
 summary: 
 ---
-Sound is a [[Longitudinal waves|longitudinal wave]] spreading in a flexible medium that is perceivable by the [[ears|ear]].
+Sound is a [[Longitudinal waves|longitudinal wave]] spreading in a flexible medium that is perceivable by the [[ears|ear]]. ([[human sound]])
 
 >Pitch is determined by frequency 
 

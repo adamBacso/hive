@@ -12,6 +12,12 @@ created_by: Ádám
 status: draft
 ---
 $\ce{OH\bond{1}CH2\bond{1}CH2\bond{1}OH}$
+```tikz
+\usepackage{chemfig}
+\begin{document}
+\chemfig{OH(-[2]CH_2(-CH_2(-[-2]OH)))}
+\end{document}
+```
 - kétértékű alkohol
 - színtelen, sűrűn folyó édes folyadék
 >[!warning] Mérgező 

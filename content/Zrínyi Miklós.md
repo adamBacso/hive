@@ -14,11 +14,12 @@ TARGET DECK: history
 summary: 
 status: draft 
 ---
+1620 - 1664
 # poet and political writer
 
->Called on Hungarians to liberate the country
+>called on Hungarians to liberate the country
 
-- Hungary on their own ← Habsburgs fighting France ([[XIV. Lajos|Luis XIV]] )
+- Hungary on their own ← Habsburgs fighting France ([[XIV. Lajos|Luis XIV]])
 - wanted a Hungarian army
 
 # Military leader
