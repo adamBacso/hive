@@ -48,5 +48,3 @@ olyan oxigéntartalmú szerves vegyületek melyek funkciós csoportja az *[[ész
 [[gyümölcsészterek]]
 [[viaszok]]
 [[glicerid|gliceridek]]
-
-![Adam's Notebook - Microsoft OneNote Online (live.com)](https://onedrive.live.com/redir?resid=B76B387BAD777C76%21132&page=Edit&wd=target%28Biology.one%7C647a0109-02bd-4b01-a113-bd28f05b3763%2FHuman%20Body%7C7fdc0f80-790c-4258-8162-a1303645b8b0%2F%29&wdorigin=NavigationUrl)

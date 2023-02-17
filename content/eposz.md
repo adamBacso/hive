@@ -20,3 +20,5 @@ status: draft
 - pl.
 	- Homérosz: Iliász és Odüsszeia
 	- Vergilius: Aeneis
+
+![[eposzi kellékek]]
