@@ -20,4 +20,4 @@ status: draft
 **enumeráció** - seregszemle
 **propozíció** - témamegjelölés
 **epithethen omans** - állandó jelző
-**toposz** - vándormotívum
+**toposz** - vándormotívum 
