@@ -14,7 +14,7 @@ summary:
 status: draft 
 ---
 # Anatomy
-- chords attached at the back side to the arytenoids cartilages, to the thyroid cartilages in the front
+- chords attached at the back side to the arytenoid cartilages, to the thyroid cartilages in the front
 - no outer edge → blend into the side of the breathing tube
 - inner edges may vibrate
 - flat triangular bands
