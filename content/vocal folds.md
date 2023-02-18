@@ -1,6 +1,6 @@
 ---
 title: "vocal folds"
-alias: "vocal chords"
+alias: "vocal cords"
 type: note
 subject: physics
 tags:
