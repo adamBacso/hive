@@ -10,6 +10,16 @@ tags:
 created: 2023.01.09 09:11
 created_by: Ádám
 ---
+# Causes of defeat
+- [[Black Army]] disbanded → only army are the nobility
+- [[Ulászló]] weaker king → weaker Hungary
+- advantages of the [[Ottoman Empire]] 
+	- army size (60 000 >> 20 000)
+	- topographical advantage 
+	- [[Louis II]] was inexperienced
+	- [[Dózsa revolt]]
+	- failed to call a Crusade
+
 # Consequences
 - Most of the nobles were killed.
 - Ceased to be a regional great power.

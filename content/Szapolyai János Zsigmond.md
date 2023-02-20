@@ -1,6 +1,6 @@
 ---
 title: "Szapolyai János Zsigmond"
-alias: 
+alias: "John I"
 type: history
 tags:
  - history

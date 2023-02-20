@@ -45,46 +45,77 @@ produces sex hormone
 3. veins *closed* by filled corpus cavarnousa
 
 # List the organs that produce some parts of the semen! (3p)
-
+[[testicles]], [[seminal vesicles]], [[prostate gland]]
 
 # What are the tasks of the testicles? (3p)
-
+produces sperm cells
+produces androgen as endocrine gland
 
 # Why is prostate gland important? (4p)
-
+place where semen components unite, muscular muscle contracts contracts → orgasm
 
 # Where does the fertilization happen? How long does human pregnancy last?  Where does the implantation of the embryo happen? (3p)
-
+[[fallopian tubes]], 38-40 weeks (9 months), [[implantation]] in the [[uterus]] 
 
 # Write a few things about the 1st trimester? (4p)
-
+- fertilization
+- implantation
+- **highest risk of misscarrige**
+- heartbeat
 
 # What happens in the 2nd trimester? (5p)
+- baby bump
+- movement can be felt
+- sex can be determined (by [[ultrasound]] )
+- fetus can react to sounds
+- high chance of survival outside of [[uterus]] 
 
-
-# List the steps of childbirth in order! (6p)
-
+# List the steps of childbirth in order! (5p)
+![[Pregnancy#Childbirth]]
 
 # What can spread STD pathogens? (3p)
-
+blood, vaginal discharge, semen (enter through microtears)
 
 # Write about syphilis! (5p)
-
+- **painless** ulcers around genitals
+- warts around the body (*antibiotics still effective*)
+- lurks
+- bacteria spreads to nervous system, bones, vascular system
+- death
 
 # Why is chlamydia dangerous? (4p)
-
+**80%** of females without symptoms, **50%** of males
+infectious
+causes infertility
 
 # Write about human papillomavirus? (4p)
-
+- vaccines against it (different variants)
+- cancer in genitals
+- papilloma around genitals and other skin surface
+- **infectious**
 
 # What are the advantages of condom usage? (3p)
-
+mechanical protection
 
 # Write about spermicides! (4p)
-
+- used in vagina (15 minutes before sex)
+- easy to get
+- stops sperm movement → cannot reach the egg
+- forms
+	- gel
+	- foam
+	- suppositories
 
 # Choose 2 fertility awareness methods and explain 1 of them! (5p)
+## Coitus interruptus
+>vaginal intercourse stopped before ejaculation
+## Temperature method
+>temperature taken every morning (same conditions)
 
+~0.2°C increase is a sign of ovulation → avoid sex for **6 days**
+## Cervical mucus method
+>mucus becomes like *egg-white* and *rubbery*
+## Ogino-Knauss / calendar method
 
 # Compare the birth control pill and birth control ring (common and different features)! (5p)
 

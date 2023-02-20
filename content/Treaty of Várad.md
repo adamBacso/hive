@@ -15,4 +15,4 @@ created_by: Ádám
 >[!info] If Ferdinand is king…
 >unity and development
 
-Szapolyai breaks the treaty when he crowns his son.
+Szapolyai breaks the treaty when he crowns his son, [[John Sigismund Zápolya]].

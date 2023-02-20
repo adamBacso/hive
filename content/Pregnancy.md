@@ -49,7 +49,7 @@ the *zygote* dicides and travels a week into the uterus → begins [[implantatio
 - movement of fetus felt
 
 ## Week 18-20
-- sex organs seen on ultrasound
+- sex organs seen on [[ultrasound]] 
 
 # 3rd trimester (29.-40. weeks)
 - 500g per month
