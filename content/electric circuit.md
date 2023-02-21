@@ -1,5 +1,5 @@
 ---
-title: "electric circuit"
+	title: "electric circuit"
 alias: "áramkör"
 type: note
 subject: physics
@@ -17,3 +17,5 @@ status: draft
 - consumers
 
 ![](https://haygot.s3.amazonaws.com/questions/454104_448602_ans_166edf6b5fc8413a9f5dc4bd0f9d5e68.jpg)
+
+[[electric work]]

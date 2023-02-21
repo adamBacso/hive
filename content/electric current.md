@@ -32,3 +32,7 @@ To move carriers, an [[electric field]] must be maintained
 - ![[direct current]]
 - ![[changing current]]
 - ![[alternating current]]
+# ![[effects of electric current]]
+>[!warning] 
+>![[electric current safety#If someone gets electroshocked…]]
+

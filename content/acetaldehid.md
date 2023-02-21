@@ -16,4 +16,4 @@ alacsony forráspont
 
 etanolból [[dehidrogénezés]]sel 
 
-[[formaldehid]]hez hassonló reakció 
+[[formaldehid]]hez hasonló reakció 

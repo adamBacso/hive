@@ -37,7 +37,7 @@ endometrium gets *thinner* without fertilization, endometrium *sheds* with the h
 
 # What are the tasks of the ovaries? (4p)
 gonad → produces egg cells
-produces sex hormone
+produces sex hormones ([[estrogen]], progesterone)
 
 # Explain the erection of the penis! (Structures, happenings) (5p)
 1. directed from [[brain]] and [[spinal cord]] (under *inhibition*)
@@ -60,7 +60,7 @@ place where semen components unite, muscular muscle contracts contracts → orga
 # Write a few things about the 1st trimester? (4p)
 - fertilization
 - implantation
-- **highest risk of misscarrige**
+- **highest risk of misscarriage**
 - heartbeat
 
 # What happens in the 2nd trimester? (5p)
@@ -95,7 +95,9 @@ causes infertility
 - **infectious**
 
 # What are the advantages of condom usage? (3p)
-mechanical protection
+- mechanical protection
+- easy to get
+- almost 100% security (*physically stops sperm*)
 
 # Write about spermicides! (4p)
 - used in vagina (15 minutes before sex)
@@ -116,17 +118,33 @@ mechanical protection
 ## Cervical mucus method
 >mucus becomes like *egg-white* and *rubbery*
 ## Ogino-Knauss / calendar method
+>menstrual cycle tracked for 6 months
+
+ovulation in the **middle** of the cycle
 
 # Compare the birth control pill and birth control ring (common and different features)! (5p)
+contain estrogen/progesterone → prevent ovulation (*fake pregnancy*)
+used for **21 days**, [[menstruation]] happens in the remaining **7**
 
+| birth control pill   | birth control ring                           |
+| -------------------- | -------------------------------------------- |
+| taken orally         | inserted in the vagina                       |
+| absorbed through gut | absorbed through vaginal mucus (more direct) | 
 
 # How can the IUD/IUS prevent pregnancy? (5p)
-
+makes endometrium thinner
+IUD - **copper** causes *sterile infection*
+IUS - hormones prevent ovulation
 
 # Write about the morning after pill! (4p)
-
+used within 3-5 days of sex
+contains large amounts of progesterone 
+>[!warning] may change menstrual cycle
 
 # What is made in the case of female sterilization? (4p)
-
+**laparoscopic operation**
+[[fallopian tubes]] are sealed
 
 # What is vasectomy? (4p)
+short surgery (*15-30 minutes*)
+vas deferens are sealed

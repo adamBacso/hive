@@ -11,3 +11,5 @@ created: 2023.01.20 10:34
 created_by: Ádám
 status: empty
 ---
+víz hatására bekövetkező bomlás
+*kondenzáció fordítottja*

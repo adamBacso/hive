@@ -29,7 +29,7 @@ forráspontja magasabb mint az ugyanakkora szénhidrogéneknek (78°C)
 # Kémiai tulajdonságok
 ## Égés
 tökéletes (halványkék láng)
-> flambírozás
+>flambírozás
 ## Vízzel való reakció ([[kémhatás]])
 semleges
 ## Nátriummal való reakció 
