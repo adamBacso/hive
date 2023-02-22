@@ -1,5 +1,5 @@
 ---
-	title: "electric circuit"
+title: "electric circuit"
 alias: "áramkör"
 type: note
 subject: physics
