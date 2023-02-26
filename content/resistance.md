@@ -15,3 +15,29 @@ status: draft
 $$R=\frac{V}{I}\to I=\frac{V}{R}\to V=I\cdot R$$ ^476c14
 
 ![[electric power#^321011]]
+
+>[!note] Resistance of graphite
+>$d=0.7\text{mm}$
+>$l=7\text{cm}=0.07\text{m}$
+>$R=40\Omega$
+>$\rho_{\text{graphite}}=?$
+>$$R=\rho \cdot \frac{l}{A}$$
+>$[\rho]=\Omega m$
+>$\rho=\frac{\Omega mm^{2}}{m}$
+>
+>$r=\frac{d}{2}=0.35$
+>$A=r^{2}\pi=$
+
+>[!note] Electric boiler
+>$P=2500\text{ W}$
+>$I=?$
+>$V=120\text{ l}$
+>$T_{\text{in}}=12\text{°C} \to T_{\text{out}}=60\text{°C}$
+>$c=4.2 \frac{\text{kJ}}{\text{kg°C}}$
+>$t=?$
+>
+>$V=230\text{ V}$
+>$I=\frac{P}{V}=\frac{2500}{230}=10.9\text{ A}$
+>$$\Delta T=60-12=48\text{°C}$$
+>$W=\frac{120 \cdot 48}{4.2}=1370.43\text{ kWh}$
+>
