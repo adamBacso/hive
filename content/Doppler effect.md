@@ -73,3 +73,13 @@ fast moving satellites → shift of frequency relative to ground station
 frequency is changed dynamically to compensate
 
 # [[Sonic boom]]
+
+# Sources
+https://www.youtube.com/watch?v=kdiHmSWI2Ks
+https://hubblesite.org/contents/media/images/4509-Image.html#:~:text=The%20universe%20is%20expanding%2C%20and,distance%20the%20light%20has%20traveled
+https://www.nhs.uk/conditions/echocardiogram/#:~:text=An%20echocardiogram%2C%20or%20%22echo%22,different%20parts%20of%20the%20body
+https://en.wikipedia.org/wiki/Doppler_effect
+https://en.wikipedia.org/wiki/Doppler_spectroscopy
+https://en.wikipedia.org/wiki/Sonic_boom
+https://en.wikipedia.org/wiki/DORIS_(satellite_system)
+https://en.wikipedia.org/wiki/Sodar
