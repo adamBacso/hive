@@ -17,7 +17,7 @@ status: draft
 ---
 # Three components
 1. lungs
-2. [[vocal folds]] (within larynx)
+2. [[vocal folds]] (within [[larynx]])
 3. [[articulators]] 
 
 # Voice type 

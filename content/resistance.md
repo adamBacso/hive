@@ -12,6 +12,7 @@ TARGET DECK: physics
 summary: 
 status: draft 
 ---
+[[resistors]]
 $$R=\frac{V}{I}\to I=\frac{V}{R}\to V=I\cdot R$$ ^476c14
 
 ![[electric power#^321011]]
@@ -40,4 +41,9 @@ $$R=\frac{V}{I}\to I=\frac{V}{R}\to V=I\cdot R$$ ^476c14
 >$I=\frac{P}{V}=\frac{2500}{230}=10.9\text{ A}$
 >$$\Delta T=60-12=48\text{°C}$$
 >$W=\frac{120 \cdot 48}{4.2}=1370.43\text{ kWh}$
->
+>>[!tip]- Solution
+>>$$Q_{\text{taken by water}}=c \cdot m \cdot \Delta T=Q_{\text{delivered by boiler }}=P \cdot \Delta t$$
+>>$4.2 \cdot 120(60-12)=2.5 \cdot \Delta t$
+>>$t=9677\text{ s}=2.688\text{ h}$
+
+

@@ -31,11 +31,11 @@ $\ce{ R-O-H }$ - [[hidroxilcsoport]]
 >- szintézisgázból
 >- jó oldószer
 >## több értékű alkoholok
->### glikol
+>### [[glikol]]
 >$$\ce{ OH-CH_{2}-CH_{2}-OH }$$
 >- **MÉRGEZŐ**
 >- fagyálló vízzel 50-50 arányban
->### glicerin
+>### [[glicerin]]
 >- dehidratálás
 >- robbanószer (dinamit)
 
@@ -56,7 +56,7 @@ $$\ce{ CH_{3}-CH_{2}-O-CH_{2}-CH_{3} }$$
 - altató (*májkárosodás*)
 
 # oxovegyületek
-- oxocsoport ($\ce{ - O - }$)
+- oxocsoport ($\ce{ =O  }$)
 ## Aldehidek
 - láncvégi szénatomhoz kapcsolódik 
 - dipólus-dipólus kölcsönhatás

@@ -59,5 +59,5 @@ két molekula összekapcsolódása **hidrogénkötésekkel**
 - [[akrilsav]]
 - [[olajsav]]
 
-# Több értékű elektronok
+# Több értékű karbonsavak
 - [[oxálsav]]

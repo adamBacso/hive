@@ -25,8 +25,20 @@ status: draft
 		1. entrepreneurs
 		2. wage workers
 		3. gentry
-- colonies: North America
+- colonies: **North America**
 
 # the [[Stuarts]]
 *1603 - 1688*
 
+## James I
+
+## Charles I
+1640 - parliament called for military funding
+>[!warning] Conditions for funding
+>- regular parliament
+>- votes on
+>	- laws
+>	- taxes
+>	- soldiers
+
+![[Civil War 1642 - 49]]
