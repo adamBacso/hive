@@ -29,3 +29,8 @@ $$\frac{\text{difference between the samples}}{\sqrt{ \text{some measure of spre
 ## [[Variance]] of $(\hat{p}_{1}-\hat{p}_{2})$
 $$Var(\hat{p}_{1}-\hat{p}_{2})=Var(\hat{p}_{1})+Var(\hat{p}_{2})$$
 $$Var\left(\sum^{n}_{i=1}X_{i}\right)=\sum^{n}_{i=1}Var(X_{i})$$
+
+# Sudent’s t-test
+
+# critical t statistic
+$$t=\frac{\bar{x}_{A}-\bar{x}_{B}}{\sqrt{ \frac{s^{2}_{A}}{n_{A}}+\frac{s^{2}_{B}}{n_{B}} }}$$

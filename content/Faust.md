@@ -15,4 +15,4 @@ status: draft
 ![[emberisékköltemény]]
 
 Mefisztó: ördög
-Faust: ördöggel alkut köt (*motívum*)
+**Faust**: ördöggel alkut köt (*motívum*)

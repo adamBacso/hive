@@ -21,7 +21,7 @@ vízben jól oldódik → [[formalin]]
 *formaldehid-hidrát*
 ## Égés
 tökéletes
-## Ezüst tükör próba
+## [[ezüsttükörpróba]]
 **ezüst ion**okat tartalmazó oldatot formaldehid jelenlétében melegítünk **lúgos** közegben
 ezüst ion (redukálódnak) → fém ezüst 
 formaldehid → hangyasav

@@ -16,3 +16,9 @@ status: draft
 1711-től Rákócival bújdosik haláláig 1735-ben
 
 utolsó [[básbug]]
+
+>[!warning] keveset tudunk életéről, műveiről, annak irodalmi-nyelvi összefüggéseiről
+>- hogyan kerültek Magyarországra kéziratai?
+>- kinek írta leveleit?
+>	- egyesek szerint a rodostói kolónia tagjainak írta
+

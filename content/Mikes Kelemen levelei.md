@@ -17,6 +17,4 @@ status: draft
 sokszínű
 
 # Jellemzői
-[[barokk]] és klasszicizmus között
-- apró benyomások fontossága
-- ízek, illatok, hangulatok megörökítése
+![[rokoko]]

@@ -14,3 +14,4 @@ summary:
 status: empty
 ---
 [[glucose|glukóz]] 
+[[fruktóz]] 
