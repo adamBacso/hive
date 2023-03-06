@@ -16,3 +16,4 @@ status: draft
 
 Mefisztó: ördög
 **Faust**: ördöggel alkut köt (*motívum*)
+![[fausti ember]]

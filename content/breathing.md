@@ -1,5 +1,5 @@
 ---
-title: "alveoli"
+title: "breathing"
 alias: 
 type: note
 subject: biology
@@ -12,8 +12,13 @@ created: 2023.03.01 08:59
 created_by: Ádám
 TARGET DECK: biology
 summary: 
-status: draft 
+status: draft
 ---
-place of gas exchange between air and blood through [[diffusion]]
+![[inhalation]]
+![[exhalation]]
 
-thin epithelium and capillary network
+adults…
+- inhale **16** times every minute
+- exchange **0.5l** of air
+
+breathing directed by the medulla

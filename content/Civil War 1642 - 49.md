@@ -20,3 +20,4 @@ What was the cause of the 1642-49 civil war?::control of the army
 # ![[Cavaliers]]
 # ![[Roundheads]]
 # Effects
+Cromwell introduces military dictatorship 

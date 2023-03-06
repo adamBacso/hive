@@ -1,10 +1,11 @@
 ---
 title: "Felvilágosodás"
-alias: ["reneszánsz", "renaissance"]
+alias: ["enlightenment"]
 type: note
 subject: magyar
 tags:
  - magyar
+ - history 
  - felvilágosodás
 created: 2023.01.24 09:04
 created_by: Ádám
@@ -40,3 +41,4 @@ felvilágosodás nagy összefoglaló munkája
 [[Voltaire]] 
 [[Johann Wolfgang von Goethe]]
 
+# HISTORY

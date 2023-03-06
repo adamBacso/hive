@@ -42,3 +42,7 @@ status: draft
 >	- soldiers
 
 ![[Civil War 1642 - 49]]
+
+dictatorship collapses with the death of [[Oliver Cromwell|Cromwell]] → Charles II invited back
+
+# ![[Bill of Rights]]

@@ -22,4 +22,7 @@ status: draft
 - gas export in the [[lung]]
 
 # Inhalation
-[[nostrils]] → [[nasal cavity]] → [[pharynx]] → [[larynx]] → [[trachea]] → [[lung]] 
+[[nostrils]] → [[nasal cavity]] → [[pharynx]] → [[larynx]] → [[trachea]] → [[lung]]
+
+
+![[illnesses of the human respiratory system]]

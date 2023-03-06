@@ -11,6 +11,6 @@ created_by: Ádám
 status: done 
 summary: 
 ---
-*Cogito ergo sum* - Gondolkodom, tehát vagyok
+*Cogito ergo sum* - Gondolkodom, tehát vagyok ([[René Descartes]])
 
 tapasztalás: [[empirizmus]]

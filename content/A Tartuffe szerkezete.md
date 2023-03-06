@@ -23,3 +23,5 @@ Tartuffe Orgonra fordul, de Tartuffe-öt fogják el végül (régi bűnöző vol
 # 5. Megoldás
 Tartuffe börtönbe kerül, Elmira és Valér megházasodik
 *HARMÓNIA VISSZAÁLL*
+
+[[hármas egység elve]]

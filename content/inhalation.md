@@ -1,5 +1,5 @@
 ---
-title: "alveoli"
+title: "inhalation"
 alias: 
 type: note
 subject: biology
@@ -14,6 +14,8 @@ TARGET DECK: biology
 summary: 
 status: draft 
 ---
-place of gas exchange between air and blood through [[diffusion]]
+[[diaphragm]] flattens (becomes shorter) and intercostal muscles contract → chest rises
 
-thin epithelium and capillary network
+[[lung]] expands → higher volume → lower pressure
+
+**air enters**

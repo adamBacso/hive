@@ -18,3 +18,11 @@ sokszínű
 
 # Jellemzői
 ![[rokoko]]
+
+végső megformálás ideje *ismeretlen*
+
+félig feltárás - félig eltakarás módszer
+**lírai önéletrajz** 
+- emigráció érzelmi élete
+
+![[1. levél]]

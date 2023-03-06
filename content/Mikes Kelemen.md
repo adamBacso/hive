@@ -22,3 +22,6 @@ utolsó [[básbug]]
 >- kinek írta leveleit?
 >	- egyesek szerint a rodostói kolónia tagjainak írta
 
+**nyelvfejlesztő** - tudatossága kérdésben áll
+
+tanult Franciául - nem tudjuk mikor, hol, kitől

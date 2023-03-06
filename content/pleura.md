@@ -1,5 +1,5 @@
 ---
-title: "alveoli"
+title: "pleura"
 alias: 
 type: note
 subject: biology
@@ -14,6 +14,4 @@ TARGET DECK: biology
 summary: 
 status: draft 
 ---
-place of gas exchange between air and blood through [[diffusion]]
-
-thin epithelium and capillary network
+#info “savós folyadék” between [[lung]] and chest causes **inflamation**

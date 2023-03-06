@@ -1,5 +1,5 @@
 ---
-title: "alveoli"
+title: "Common cold"
 alias: 
 type: note
 subject: biology
@@ -8,12 +8,14 @@ tags:
  - human_body
  - respiration
  - breathing
-created: 2023.03.01 08:59
+created: 2023.03.06 11:17
 created_by: Ádám
 TARGET DECK: biology
 summary: 
 status: draft 
 ---
-place of gas exchange between air and blood through [[diffusion]]
+caused by the [[rhino virus]]
 
-thin epithelium and capillary network
+# symptoms
+- inflammation of the nasal mucosa
+- runny nose

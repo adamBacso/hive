@@ -14,7 +14,13 @@ TARGET DECK: biology
 summary: 
 status: draft 
 ---
-main bronchi → bronchi → bronchioles → [[alveoli]]
+main bronchi → [[bronchi]] → [[bronchioles]] → [[alveoli]]
 
 **left** - 2 lobes (space needed for [[heart]])
 **right** - 3 lobes
+
+flexible tissues moving with the chest and [[diaphragm]]
+→ attached with [[pleura]]
+
+[[breathing]]
+

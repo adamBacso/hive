@@ -1,5 +1,5 @@
 ---
-title: "alveoli"
+title: "diaphragm"
 alias: 
 type: note
 subject: biology
@@ -12,8 +12,6 @@ created: 2023.03.01 08:59
 created_by: Ádám
 TARGET DECK: biology
 summary: 
-status: draft 
+status: empty
 ---
-place of gas exchange between air and blood through [[diffusion]]
-
-thin epithelium and capillary network
+> [!fail] This page does not exist (yet)!
