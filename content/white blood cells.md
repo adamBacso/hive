@@ -16,4 +16,4 @@ status: draft
 protect body from pathogens (foreign bodies + [[cancer]] cells)
 
 **6-10** thousand in $1\text{ mm}^{3}$ of blood
-lifetime of a **few days** to **years**
+lifetime of a **few days** to **years** (memory cells live longer - pass on information through [[cell division]])
