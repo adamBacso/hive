@@ -17,4 +17,4 @@ status: draft
 *equal with female ovaries*
 
 [[gonads]] and endocrine glands 
-→ produce 200-300 million immature sperm cells **per day**
+→ produce 200-300 million immature [[sperm]] cells **per day**

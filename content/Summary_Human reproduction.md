@@ -97,7 +97,7 @@ causes infertility
 # What are the advantages of condom usage? (3p)
 - mechanical protection
 - easy to get
-- almost 100% security (*physically stops sperm*)
+- almost 100% security (*physically stops [[sperm]]*)
 
 # Write about spermicides! (4p)
 - used in vagina (15 minutes before sex)

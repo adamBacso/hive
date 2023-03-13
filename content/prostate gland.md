@@ -17,7 +17,7 @@ status: done
 under the bladder
 produce *25-28%* of semen
 
-causes the semen’s alkaline pH (**activates sperm**)
+causes the semen’s alkaline pH (**activates [[sperm]]**)
 
 >[!important] Components of semen unite in the prostate gland 
 

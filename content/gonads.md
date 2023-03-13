@@ -14,6 +14,6 @@ TARGET DECK: biology
 summary: 
 status: draft 
 ---
-produce sperm and ova 
+produce [[sperm]] and ova 
 
 ([[ovaries]] in females, [[testicles]] in males)

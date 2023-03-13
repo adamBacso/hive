@@ -18,4 +18,4 @@ equals with the female [[labia]]
 
 >regulates the temperature of [[testicles]] 
 
-sperm cells need 34°C for maturation
+[[sperm]] cells need 34°C for maturation

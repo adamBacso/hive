@@ -30,7 +30,7 @@ b. stimulates or inhibits cell metabolism
 - human growth hormone - effects cell metabolism 
 - thyroid stimulating hormone - stimulates thyroxine production 
 - prolactin - stimulates milk production 
-- follicle stimulating hormone - stimulates maturation of egg cell, ovulation, increases estrogen production, (in males) stimulates sperm cell producion
+- follicle stimulating hormone - stimulates maturation of egg cell, ovulation, increases estrogen production, (in males) stimulates [[sperm]] cell producion
 - luteinizing hormone - stimulates [[corpus luteum]] progesterone production, (in males) stimulates the androgen production
 
 # What stores oxytocin? What is the effect of the hormone? (3p)

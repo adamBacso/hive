@@ -1,19 +1,18 @@
 ---
-title: "epididymis"
+title: "gamete"
 alias: 
 type: note
 subject: biology
 tags:
  - biology
+ - extra
+ - genetics
+ - inheritance
  - reproduction
- - human_body
- - human
-created: 2023.01.23 11:40
+created: 2023.03.13 19:19
 created_by: Ádám
 TARGET DECK: biology
 summary: 
 status: draft 
 ---
->place of [[sperm]] maturation and storage
-
-back surface of testicles
+[[sperm]] or egg cells → contain half of genetic information

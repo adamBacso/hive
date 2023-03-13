@@ -14,7 +14,7 @@ TARGET DECK: biology
 summary: 
 status: draft 
 ---
->copulatory organ to get sperm into the vagina 
+>copulatory organ to get [[sperm]] into the vagina 
 
 3 bodies with sinuses fill with blood and connective tissue (capsule) gives limit → hardening (erection)
 
