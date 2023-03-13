@@ -14,3 +14,6 @@ status: draft
 ---
 - not used in circuits
 - has own [[emf source]] 
+	- measures [[electric current]] and voltage to calculate [[resistance]] 
+	- $R=\frac{V}{I}$
+- has no internal resistance *ideally*

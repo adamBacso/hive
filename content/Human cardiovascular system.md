@@ -31,3 +31,5 @@ fluid [[connective tissue]] without fibres
 # types of blood
 [[plasma]], and [[blood cells]]
 
+# parts of the cardiovascular system
+[[heart]], arteries, veins, [[capillaries]]

@@ -1,17 +1,19 @@
 {
 	"nodes":[
-		{"id":"f39ebd042defe808","x":195,"y":-575,"width":394,"height":120,"color":"4","type":"text","text":"# 1 oxigéntartalmú"},
-		{"id":"502c92fdbad46906","x":263,"y":-262,"width":582,"height":1304,"type":"file","file":"éter.md"},
-		{"id":"d4af090e1c62f49b","x":1042,"y":-268,"width":400,"height":400,"type":"file","file":"oxovegyület.md"},
-		{"id":"cb576b0690a915b7","x":1057,"y":248,"width":629,"height":1428,"type":"file","file":"Aldehidek.md"},
-		{"id":"0d30550d21340302","x":1894,"y":248,"width":700,"height":1991,"type":"file","file":"Ketonok.md"},
-		{"id":"b765ad5502736a10","x":1743,"y":-550,"width":501,"height":224,"type":"file","file":"oxocsoport.md"},
-		{"id":"651977841b3c32ad","x":-269,"y":-74,"width":430,"height":656,"type":"file","file":"étercsoport.md"},
-		{"id":"dcd7837408a77850","x":-932,"y":78,"width":476,"height":795,"type":"file","file":"hidroxilcsoport.md"},
-		{"id":"cd6ea78cb7414921","x":-890,"y":-277,"width":434,"height":204,"type":"file","file":"hidroxi vegyület.md"},
-		{"id":"149f9f2f51d82d30","x":-1284,"y":390,"width":250,"height":86,"color":"1","type":"text","text":"erősen poláris"},
-		{"id":"0385aa89a156b9d4","x":-2061,"y":-290,"width":777,"height":630,"type":"file","file":"alkohol.md"},
-		{"id":"fdc91e45c16fdf53","x":-1922,"y":-635,"width":250,"height":162,"type":"text","text":"#chemistry #szerves_kémia #oxigéntartalmú "}
+		{"type":"text","text":"# 1 oxigéntartalmú","id":"f39ebd042defe808","x":195,"y":-575,"width":394,"height":120,"color":"4"},
+		{"type":"file","file":"éter.md","id":"502c92fdbad46906","x":263,"y":-262,"width":582,"height":1246},
+		{"type":"file","file":"oxovegyület.md","id":"d4af090e1c62f49b","x":1042,"y":-268,"width":400,"height":400},
+		{"type":"file","file":"Aldehidek.md","id":"cb576b0690a915b7","x":1057,"y":248,"width":629,"height":1428},
+		{"type":"file","file":"Ketonok.md","id":"0d30550d21340302","x":1894,"y":248,"width":700,"height":1991},
+		{"type":"file","file":"oxocsoport.md","id":"b765ad5502736a10","x":1743,"y":-550,"width":501,"height":224},
+		{"type":"file","file":"hidroxilcsoport.md","id":"dcd7837408a77850","x":-932,"y":78,"width":476,"height":795},
+		{"type":"file","file":"hidroxi vegyület.md","id":"cd6ea78cb7414921","x":-890,"y":-277,"width":434,"height":204},
+		{"type":"text","text":"erősen poláris","id":"149f9f2f51d82d30","x":-1284,"y":390,"width":250,"height":86,"color":"1"},
+		{"type":"file","file":"alkohol.md","id":"0385aa89a156b9d4","x":-2061,"y":-290,"width":777,"height":630},
+		{"id":"0db4ca6e1efe8f15","x":1372,"y":1905,"width":400,"height":274,"type":"file","file":"acetaldehid.md"},
+		{"id":"2b27aa509734d81e","x":835,"y":1905,"width":478,"height":1311,"type":"file","file":"formaldehid.md"},
+		{"type":"file","file":"étercsoport.md","id":"651977841b3c32ad","x":-267,"y":33,"width":430,"height":656},
+		{"type":"text","text":"#chemistry #szerves_kémia #oxigéntartalmú ","id":"fdc91e45c16fdf53","x":-1714,"y":-737,"width":250,"height":162}
 	],
 	"edges":[
 		{"id":"0a7789681271c962","fromNode":"f39ebd042defe808","fromSide":"bottom","toNode":"cd6ea78cb7414921","toSide":"top"},
@@ -23,6 +25,8 @@
 		{"id":"acb3fe977f1c3b42","fromNode":"502c92fdbad46906","fromSide":"left","toNode":"651977841b3c32ad","toSide":"right"},
 		{"id":"c77f2975c7816fe8","fromNode":"cd6ea78cb7414921","fromSide":"bottom","toNode":"dcd7837408a77850","toSide":"top","fromEnd":"arrow"},
 		{"id":"0ef45645bfae43b1","fromNode":"dcd7837408a77850","fromSide":"left","toNode":"149f9f2f51d82d30","toSide":"right"},
-		{"id":"54981d975ae18a0e","fromNode":"cd6ea78cb7414921","fromSide":"left","toNode":"0385aa89a156b9d4","toSide":"right"}
+		{"id":"54981d975ae18a0e","fromNode":"cd6ea78cb7414921","fromSide":"left","toNode":"0385aa89a156b9d4","toSide":"right"},
+		{"id":"87f8cce67a3b888e","fromNode":"cb576b0690a915b7","fromSide":"bottom","toNode":"2b27aa509734d81e","toSide":"top"},
+		{"id":"0c544f4c8568593d","fromNode":"cb576b0690a915b7","fromSide":"bottom","toNode":"0db4ca6e1efe8f15","toSide":"top"}
 	]
 }

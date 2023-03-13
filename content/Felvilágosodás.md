@@ -42,3 +42,5 @@ felvilágosodás nagy összefoglaló munkája
 [[Johann Wolfgang von Goethe]]
 
 # HISTORY
+[[John Locke]]
+[[Montesquieu]]

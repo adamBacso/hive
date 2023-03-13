@@ -13,7 +13,7 @@ status: done
 ---
 Olyan [[oxovegyület]] amelyben az oxocsoport láncvégi szénatomhoz kapcsolódik
 
-![|350](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNz4XlAqw5-ACqmA6SAy1r_JT-3nA2dpDga6pKI4UgiiKaXpodWTnldrLvsvXTSIn9_4w&usqp=CAU)
+![aldehidek|350](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNz4XlAqw5-ACqmA6SAy1r_JT-3nA2dpDga6pKI4UgiiKaXpodWTnldrLvsvXTSIn9_4w&usqp=CAU)
 formilcoport
 # Elnevezés
 [[formaldehid|metanal]]

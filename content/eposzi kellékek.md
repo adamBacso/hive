@@ -12,12 +12,12 @@ TARGET DECK: magyar
 summary: 
 status: draft 
 ---
-**deus ex machina** - isten a gépezetben
-**invokáció** - segélykérés
-**retardáció** - késleltetés
-**anticipáció** - előreutalás
+**[[deus ex machina]]** - isten a gépezetben
+**[[invokáció]]** - segélykérés
+**[[retardáció]]** - késleltetés
+**[[anticipáció]]** - előreutalás
 **[[in medias res]]** - dolgok közepébe vágás
-**enumeráció** - seregszemle
-**propozíció** - témamegjelölés
-**epithethen omans** - állandó jelző
-**toposz** - vándormotívum 
+**[[enumeráció]]** - seregszemle
+**[[propozíció]]** - témamegjelölés
+**[[epithethen omans]]** - állandó jelző
+**[[toposz]]** - vándormotívum 

@@ -1,5 +1,5 @@
 ---
-title: "meausring current and voltage"
+title: "meausuring current and voltage"
 alias: 
 type: note
 subject: physics

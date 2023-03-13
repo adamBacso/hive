@@ -18,6 +18,6 @@ has no nucleus → donut shape
 deliver $O_{2}$ and $\ce{ CO_{2} }$ to cells and [[lung]] 
 [[hemoglobin]] binds these gases
 
-4-5 *million* in $1\text{ mm}^{3}$ of blood
+**4-5 *million*** in $1\text{ mm}^{3}$ of blood
 
 lifetime of **90-120** days

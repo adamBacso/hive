@@ -12,6 +12,6 @@ TARGET DECK: physics
 summary: 
 status: done
 ---
-- battery
+- [[battery]]
 - generator
 - solar cell
